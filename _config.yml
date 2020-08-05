@@ -18,7 +18,7 @@ markdown: kramdown
 collections:
   pages:
     output: true
-    permalink: /
+    permalink: /:path/
 
 sass:
   style: compressed
@@ -26,5 +26,7 @@ sass:
 plugins:
   - jekyll-multiple-languages-plugin
 
+exclude: ["README.md", "LICENSE.md", "forty_jekyll_theme.gemspec", "CONTRIBUTING.md"]
+
 languages: ["ja", "en"]
-exclude_from_localizations: ["assets/js", "assets/images", "assets/css", "assets/fonts"]
+exclude_from_localizations: ["assets"]
