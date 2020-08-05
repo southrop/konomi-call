@@ -1,0 +1,19 @@
+global:
+  japanese: 日本語
+  english: English
+  
+menu:
+  menu: All Songs
+
+titles:
+  home: Home
+  landing: Suzuki Konomi Call Guide
+  description: A site with calls for all Suzuki Konomi songs
+
+daysofdash:
+  title: Days of Dash
+  description: 2nd Single
+
+yumenotsuzuki:
+  title: Yume no Tsuzuki
+  description: 3rd Single

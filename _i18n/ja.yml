@@ -1,0 +1,19 @@
+global:
+  japanese: 日本語
+  english: English
+
+menu:
+  menu: 全曲一覧
+
+titles:
+  home: トップ
+  landing: 鈴木このみコールガイド
+  description: 鈴木このみの曲のコールをまとめるサイト
+
+daysofdash:
+  title: Days of Dash
+  description: 2ndシングル
+
+yumenotsuzuki:
+  title: 夢の続き
+  description: 3rdシングル

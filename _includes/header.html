@@ -1,11 +1,22 @@
 <!-- Wrapper -->
 <div id="wrapper">
 
+{% if site.lang == "ja" %}
+{% capture currenthome %}{{ site.baseurl_root | absolute_url }}{% endcapture %}
+{% capture newhome %}{{ site.baseurl_root }}/en{% endcapture %}
+{% capture newlang %}{% t global.english %}{% endcapture %}
+{% elsif site.lang == "en" %}
+{% capture currenthome %}{{ site.baseurl_root }}/en{% endcapture %}
+{% capture newhome %}{{ site.baseurl_root }}{% endcapture %}
+{% capture newlang %}{% t global.japanese %}{% endcapture %}
+{% endif %}
+
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<a href="{{ currenthome }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
-		<a href="#menu">Menu</a>
+		<a href="{{ newhome }}{{ page.url }}" >{{ newlang }}</a>
+		<a href="#menu">{% t menu.menu %}</a>
 	</nav>
 </header>
 
@@ -13,18 +24,7 @@
 <nav id="menu">
 	<ul class="links">
         {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
+			<li><a href="{{ page.url | relative_url }}">{% t page.title %}</a></li>
 		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
 </nav>
