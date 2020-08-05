@@ -26,7 +26,8 @@ sass:
 plugins:
   - jekyll-multiple-languages-plugin
 
+include: [".nojekyll"]
 exclude: ["README.md", "LICENSE.md", "forty_jekyll_theme.gemspec", "CONTRIBUTING.md"]
 
 languages: ["ja", "en"]
-exclude_from_localizations: ["assets"]
+exclude_from_localizations: ["assets", ".nojekyll"]

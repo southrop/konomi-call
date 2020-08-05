@@ -2,7 +2,7 @@
 <div id="wrapper">
 
 {% if site.lang == "ja" %}
-{% capture currenthome %}{{ site.baseurl_root | absolute_url }}{% endcapture %}
+{% capture currenthome %}{{ site.baseurl }}/{% endcapture %}
 {% capture newhome %}{{ site.baseurl_root }}/en{% endcapture %}
 {% capture newlang %}{% t global.english %}{% endcapture %}
 {% elsif site.lang == "en" %}
