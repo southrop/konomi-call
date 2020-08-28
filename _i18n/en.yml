@@ -10,10 +10,29 @@ titles:
   landing: Suzuki Konomi Call Guide
   description: A site with calls for all Suzuki Konomi songs
 
-daysofdash:
-  title: Days of Dash
-  description: 2nd Single
+pages:
+  test:
+    title: Test
+    description: Test Description
 
-yumenotsuzuki:
-  title: Yume no Tsuzuki
-  description: 3rd Single
+songs:
+  global:
+    divider: "<br>"
+    lyrics: "Lyrics: "
+    composition: "Composition: "
+    arrangement: "Arrangement: "
+  theateroflife:
+    title: Theater of Life
+    description: 17th Single<br>TV Anime "DECA-DENCE" Opening Theme
+    lyrics: ANCHOR
+    composition: ANCHOR
+    arrangement: ANCHOR
+  watamote:
+    title: Watashi ga Motenai no wa dou Kangaetemo Omaera ga Warui!
+    description: 4th Single<br>TV Anime "No Matter How I Look at It, It’s You Guys' Fault I’m Not Popular!" Opening Theme
+  daysofdash:
+    title: Days of Dash
+    description: 2nd Single
+    lyrics: Hata Aki
+    composition: Shirato Yusuke
+    arrangement: Shirato Yusuke

@@ -10,10 +10,29 @@ titles:
   landing: 鈴木このみコールガイド
   description: 鈴木このみの曲のコールをまとめるサイト
 
-daysofdash:
-  title: Days of Dash
-  description: 2ndシングル
+pages:
+  test:
+    title: テスト
+    description: テスト詳細
 
-yumenotsuzuki:
-  title: 夢の続き
-  description: 3rdシングル
+songs:
+  global:
+    divider: ・
+    lyrics: 作詞：
+    composition: 作曲：
+    arrangement: 編曲：
+  theateroflife:
+    title: Theater of Life
+    description: 17th Single<br>TVアニメ「デカダンス」OPテーマ
+    lyrics: ANCHOR
+    composition: ANCHOR
+    arrangement: ANCHOR
+  watamote:
+    title: 私がモテないのはどう考えてもお前らが悪い
+    description: 4thシングル<br>TVアニメ「私がモテないのはどう考えてもお前らが悪い」OPテーマ
+  daysofdash:
+    title: Days of Dash
+    description: 2ndシングル<br>TVアニメ「私がモテないのはどう考えてもお前らが悪い」OPテーマ
+    lyrics: 畑 亜貴
+    composition: 白戸佑輔
+    arrangement: 白戸佑輔

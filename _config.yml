@@ -1,22 +1,24 @@
 # site settings
 title: 鈴木このみ
 subtitle: コールガイド
-baseurl: "/konomi-call" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://konomi.platinumdis.co" # the base hostname & protocol for your site
+font-awesome-icon-logo: fa-music
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 16
 
 # social settings
-500px_url:
-twitter_url: https://twitter.com/southro_p
+twitter_url: https://twitter.com/konomin_call
 
 # build settings
 markdown: kramdown
 
 collections:
   pages:
+    output: true
+    permalink: /:path/
+  songs:
     output: true
     permalink: /:path/
 
@@ -26,8 +28,8 @@ sass:
 plugins:
   - jekyll-multiple-languages-plugin
 
-include: [".nojekyll"]
-exclude: ["README.md", "LICENSE.md", "forty_jekyll_theme.gemspec", "CONTRIBUTING.md"]
+include: [".nojekyll", "CNAME"]
+exclude: ["README.md", "phantom_jekyll_theme.gemspec"]
 
 languages: ["ja", "en"]
 exclude_from_localizations: ["assets", ".nojekyll"]

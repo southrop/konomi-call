@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+	{% include header.html %}
+
+	<h1>{% t page.title %}</h1>
+	<h2>{% if page.lyrics %}{% t songs.global.lyrics %}{% t page.lyrics %}{% endif %}
+		{% if page.lyrics and page.composition %}{% t songs.global.divider %}{% endif %}
+		{% if page.composition %}{% t songs.global.composition %}{% t page.composition %}{% endif %}
+		{% if page.composition and page.arrangement %}{% t songs.global.divider %}{% endif %}
+		{% if page.arrangement %}{% t songs.global.arrangement %}{% t page.arrangement %}{% endif %}</h2>
+	{% if page.image %}
+	<span class="image">
+		<img src="{{ page.image | relative_url }}" alt="">
+	</span>
+	{% endif %}
+	{{ content }}
+	{% include footer.html %}
+
+</body>
+
+</html>
