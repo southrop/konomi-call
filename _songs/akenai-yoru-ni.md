@@ -6,3 +6,4 @@ image: assets/images/pic04.jpg
 order: 16
 ---
 
+{% tf akenai-yoru-ni.md %}

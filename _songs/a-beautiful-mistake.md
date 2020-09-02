@@ -6,3 +6,4 @@ image: assets/images/pic01.jpg
 order: 13
 ---
 
+{% tf a-beautiful-mistake.md %}

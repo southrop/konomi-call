@@ -6,3 +6,4 @@ image: assets/images/pic02.jpg
 order: 2
 ---
 
+{% tf watamote.md %}

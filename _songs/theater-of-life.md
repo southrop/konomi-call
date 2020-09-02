@@ -9,3 +9,4 @@ image: assets/images/pic01.jpg
 order: 1
 ---
 
+{% tf theater-of-life.md %}

@@ -6,3 +6,4 @@ image: assets/images/pic12.jpg
 order: 12
 ---
 
+{% tf this-game.md %}

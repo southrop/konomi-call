@@ -6,3 +6,4 @@ image: assets/images/pic08.jpg
 order: 8
 ---
 
+{% tf join-us.md %}

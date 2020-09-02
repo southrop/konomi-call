@@ -27,9 +27,18 @@ sass:
 
 plugins:
   - jekyll-multiple-languages-plugin
+  # - jekyll-pdf
 
 include: [".nojekyll", "CNAME"]
 exclude: ["README.md", "phantom_jekyll_theme.gemspec"]
 
 languages: ["ja", "en"]
 exclude_from_localizations: ["assets", ".nojekyll"]
+
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "songs"
+#     values:
+#       pdf: true

@@ -6,3 +6,4 @@ image: assets/images/pic09.jpg
 order: 9
 ---
 
+{% tf sky-blue-oasis.md %}
