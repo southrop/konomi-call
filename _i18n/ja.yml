@@ -18,7 +18,7 @@ pages:
 
 songs:
   global:
-    divider: ・
+    divider: <br>
     lyricist: 作詞：
     composer: 作曲：
     lyricomposer: 作詞・作曲：
