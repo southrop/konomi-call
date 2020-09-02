@@ -2,7 +2,7 @@
 layout: song
 title: songs.thisgame.title
 description: songs.thisgame.description
-image: assets/images/pic12.jpg
+image: assets/images/06.jpg
 order: 12
 ---
 

@@ -1,11 +1,11 @@
 <section class="tiles">
 	{% assign songs = site.songs | sort: 'order' %}
 	{% for tile in songs limit:site.tiles-count %}
-	<article class="style{{ forloop.index }}">
+	<article>
 		<span class="image">
 			<img src="{{ tile.image | relative_url }}" alt="" />
 		</span>
-		<a href="{{ tile.url | relative_url }}">
+		<a href="{{ site.baseurl }}{{ tile.url}}">
 			<h2>{% t tile.title %}</h2>
 			<div class="content">
 				<p>{% t tile.description %}</p>

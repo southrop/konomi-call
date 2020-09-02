@@ -11,7 +11,7 @@
 		opacity: 1;
 	}
 
-	#menu {
+	.menu {
 		@include vendor('transform', 'translateX(#{_size(menu)})');
 		@include vendor('transition', ('transform #{_duration(menu)} ease', 'visibility #{_duration(menu)}'));
 		position: fixed;
@@ -137,6 +137,28 @@
 				&:before, &:after {
 					background-size: 1.5em 1.5em;
 				}
+			}
+		}
+	}
+
+	body.is-lang-visible {
+		#wrapper {
+			@include vendor('pointer-events', 'none');
+			cursor: default;
+			opacity: 0.25;
+		}
+
+		#lang {
+			@include vendor('transform', 'translateX(0)');
+			visibility: visible;
+
+			> * {
+				opacity: 1;
+			}
+
+			.close {
+				@include vendor('transform', 'scale(1.0) rotate(0deg)');
+				opacity: 1;
 			}
 		}
 	}

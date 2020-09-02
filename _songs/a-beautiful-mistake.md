@@ -2,7 +2,10 @@
 layout: song
 title: songs.abeautifulmistake.title
 description: songs.abeautifulmistake.description
-image: assets/images/pic01.jpg
+lyricist: songs.abeautifulmistake.lyricist
+composer: songs.abeautifulmistake.composer
+arranger: songs.abeautifulmistake.arranger
+image: assets/images/18.jpg
 order: 13
 ---
 

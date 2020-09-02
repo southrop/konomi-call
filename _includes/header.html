@@ -1,20 +1,9 @@
 <!-- Wrapper -->
 <div id="wrapper">
-
-{% if site.lang == "ja" %}
-{% capture currenthome %}{{ site.baseurl }}/{% endcapture %}
-{% capture newhome %}{{ site.baseurl_root }}/en{% endcapture %}
-{% capture newlang %}{% t global.english %}{% endcapture %}
-{% elsif site.lang == "en" %}
-{% capture currenthome %}{{ site.baseurl_root }}/en{% endcapture %}
-{% capture newhome %}{{ site.baseurl_root }}{% endcapture %}
-{% capture newlang %}{% t global.japanese %}{% endcapture %}
-{% endif %}
-
 <!-- Header -->
 <header id="header">
 	<div class="inner">
-		<a href="{{ currenthome }}" class="logo">
+		<a href="{{ site.baseurl }}/" class="logo">
 			<span class="symbol">
 				{% if site.font-awesome-icon-logo %}
 				<div href="#" class="icon style1 {{ site.font-awesome-icon-logo }}"></div>
@@ -25,19 +14,28 @@
 		</a>
 		<nav>
 			<ul>
-				<li><a href="#menu">Menu</a></li>
+				<li><a href="#lang"><i class="fa fa-language" aria-hidden="true"></i></a></li>
+				<li><a href="#menu"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
 			</ul>
 		</nav>
 	</div>
 </header>
 
-<!-- Menu -->
-<nav id="menu">
-	<h2>Menu</h2>
+<nav id="lang" class="menu">
+	<h2>{% t global.language %}</h2>
 	<ul>
-		<li><a href="{{ currenthome }}">{% t titles.home %}</a></li>
+		<li><a href="{{ site.baseurl_root }}{{ page.url }}">{% t global.japanese %}</a></li>
+		<li><a href="{{ site.baseurl_root }}/en{{ page.url }}">{% t global.english %}</a></li>
+	</ul>
+</nav>
+
+<!-- Menu -->
+<nav id="menu" class="menu">
+	<h2>{% t menu.menu %}</h2>
+	<ul>
+		<li><a href="{{ site.baseurl }}/">{% t titles.home %}</a></li>
 		{% for page in site.pages %}
-		<li><a href="{{ page.url | relative_url }}">{% t page.title %}</a></li>
+		<li><a href="{{ site.baseurl }}{{ page.url }}">{% t page.title %}</a></li>
 		{% endfor %}
 	</ul>
 </nav>

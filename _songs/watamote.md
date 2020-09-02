@@ -2,7 +2,8 @@
 layout: song
 title: songs.watamote.title
 description: songs.watamote.description
-image: assets/images/pic02.jpg
+everything: songs.watamote.everything
+image: assets/images/04.jpg
 order: 2
 ---
 

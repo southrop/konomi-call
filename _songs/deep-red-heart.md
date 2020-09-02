@@ -2,7 +2,7 @@
 layout: song
 title: songs.deepredheart.title
 description: songs.deepredheart.description
-image: assets/images/pic03.jpg
+image: assets/images/08-1.jpg
 order: 15
 ---
 

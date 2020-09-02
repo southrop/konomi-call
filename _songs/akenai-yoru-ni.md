@@ -2,7 +2,10 @@
 layout: song
 title: songs.akenaiyoruni.title
 description: songs.akenaiyoruni.description
-image: assets/images/pic04.jpg
+lyricist: songs.akenaiyoruni.lyricist
+composer: songs.akenaiyoruni.composer
+arranger: songs.akenaiyoruni.arranger
+image: assets/images/17.jpg
 order: 16
 ---
 

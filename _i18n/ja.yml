@@ -1,9 +1,10 @@
 global:
+  language: 言語
   japanese: 日本語
   english: English
 
 menu:
-  menu: 全曲一覧
+  menu: メニュー
 
 titles:
   home: トップ
@@ -18,47 +19,67 @@ pages:
 songs:
   global:
     divider: ・
-    lyrics: 作詞：
-    composition: 作曲：
-    arrangement: 編曲：
+    lyricist: 作詞：
+    composer: 作曲：
+    lyricomposer: 作詞・作曲：
+    arranger: 編曲：
+    comparranger: 作編曲：
+    everything: 作詞・作編曲：
   theateroflife:
     title: Theater of Life
-    description: 17th Single<br>TVアニメ「デカダンス」OPテーマ
-    lyrics: ANCHOR
-    composition: ANCHOR
-    arrangement: ANCHOR
+    description: 17thシングル<br>TVアニメ「デカダンス」OPテーマ
+    everything: ANCHOR
   watamote:
     title: 私がモテないのはどう考えてもお前らが悪い
     description: 4thシングル<br>TVアニメ「私がモテないのはどう考えてもお前らが悪い」OPテーマ
+    everything: キバオブアキバ
   daysofdash:
     title: Days of Dash
-    description: 2ndシングル<br>TVアニメ「私がモテないのはどう考えてもお前らが悪い」OPテーマ
-    lyrics: 畑 亜貴
-    composition: 白戸佑輔
-    arrangement: 白戸佑輔
+    description: 2ndシングル<br>TVアニメ「さくら荘のペットな彼女」EDテーマ
+    lyricist: 畑 亜貴
+    comparranger: 白戸佑輔
   realize:
     title: Realize
+    description: 18thシングル<br>TVアニメ「Re:ゼロから始める異世界生活」2nd season OPテーマ
+    everything: 篠崎あやと、橘亮祐
   redo:
     title: Redo
   maiyuki:
     title: 舞い降りてきた雪
+    description: 19thシングル<br>TVアニメ「恋とプロデューサー～EVOL×LOVE」EDテーマ
+    lyricomposer: 中島卓偉
+    arranger: 荒幡亮平
   beatyourheart:
     title: Beat your Heart
   joinus:
     title: join us
+    description: 13thシングル カップリング曲
+    lyricomposer: 森下昇斗
+    arranger: 白戸佑輔
   skyblueoasis:
     title: Sky Blue OASIS
   liveitup:
-    title: Live It Up!
+    title: Live it up！
+    description: 19thシングル カップリング曲
+    lyricist: 唐沢美帆
+    comparranger: 加藤裕介
   absolutesoul:
     title: Absolute Soul
   thisgame:
     title: This game
   abeautifulmistake:
     title: A Beautiful Mistake
+    description: 18thシングル カップリング曲
+    lyricist: 草野華余子
+    composer: 鈴木このみ
+    arranger: 城戸紘志
   loveismyrail:
     title: Love is MY RAIL
   deepredheart:
     title: Deep Red Heart
   akenaiyoruni:
     title: 明けない夜に
+    description: 17thシングル カップリング曲
+    lyricist: 鈴木このみ
+    composer: ナスカ
+    arranger: the Third

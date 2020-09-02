@@ -2,7 +2,7 @@
 layout: song
 title: songs.absolutesoul.title
 description: songs.absolutesoul.description
-image: assets/images/pic11.jpg
+image: assets/images/08.jpg
 order: 11
 ---
 

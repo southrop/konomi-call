@@ -2,7 +2,7 @@
 layout: song
 title: songs.loveismyrail.title
 description: songs.loveismyrail.description
-image: assets/images/pic02.jpg
+image: assets/images/11.jpg
 order: 14
 ---
 

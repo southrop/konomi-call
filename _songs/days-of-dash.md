@@ -2,10 +2,9 @@
 layout: song
 title: songs.daysofdash.title
 description: songs.daysofdash.description
-lyrics: songs.daysofdash.lyrics
-composition: songs.daysofdash.composition
-arrangement: songs.daysofdash.arrangement
-image: assets/images/pic11.jpg
+lyricist: songs.daysofdash.lyricist
+comparranger: songs.daysofdash.comparranger
+image: assets/images/02.jpg
 order: 3
 ---
 

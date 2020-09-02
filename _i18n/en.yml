@@ -1,9 +1,8 @@
 global:
-  japanese: 日本語
-  english: English
-  
+  language: Language
+
 menu:
-  menu: All Songs
+  menu: Menu
 
 titles:
   home: Home
@@ -18,21 +17,67 @@ pages:
 songs:
   global:
     divider: "<br>"
-    lyrics: "Lyrics: "
-    composition: "Composition: "
-    arrangement: "Arrangement: "
+    lyricist: "Lyrics: "
+    composer: "Composition: "
+    lyricomposer: "Lyrics and Composition: "
+    arranger: "Arrangement: "
+    comparranger: "Music: "
+    everything: "Lyrics and Music: "
   theateroflife:
     title: Theater of Life
     description: 17th Single<br>TV Anime "DECA-DENCE" Opening Theme
-    lyrics: ANCHOR
-    composition: ANCHOR
-    arrangement: ANCHOR
+    everything: ANCHOR
   watamote:
     title: Watashi ga Motenai no wa dou Kangaetemo Omaera ga Warui!
     description: 4th Single<br>TV Anime "No Matter How I Look at It, It’s You Guys' Fault I’m Not Popular!" Opening Theme
+    everything: Kiba of Akiba
   daysofdash:
     title: Days of Dash
-    description: 2nd Single
-    lyrics: Hata Aki
-    composition: Shirato Yusuke
-    arrangement: Shirato Yusuke
+    description: 2nd Single<br>TV Anime "The Pet Girl of Sakurasou" Ending Theme
+    lyricist: Aki Hata
+    comparranger: Yusuke Shirato
+  realize:
+    title: Realize
+    description: 18th Single<br>TV Anime "Re:Zero − Starting Life in Another World" 2nd season Opening Theme
+    everything: Ayato Shinozaki, Ryosuke Tachibana
+  redo:
+    title: Redo
+  maiyuki:
+    title: Mai orite kita Yuki
+    description: 19th Single<br>TV Anime "Love and Producer ~EVOL×LOVE~" Ending Theme
+    lyricomposer: Takui Nakajima
+    arranger: Ryohei Arahata
+  beatyourheart:
+    title: Beat your Heart
+  joinus:
+    title: join us
+    description: 13th Single B-side
+    lyricomposer: Shoto Morishita
+    arranger: Yusuke Shirato
+  skyblueoasis:
+    title: Sky Blue OASIS
+  liveitup:
+    title: Live it up!
+    description: 19th Single B-side
+    lyricist: Miho Karasawa
+    comparranger: Yusuke Kato
+  absolutesoul:
+    title: Absolute Soul
+  thisgame:
+    title: This game
+  abeautifulmistake:
+    title: A Beautiful Mistake
+    description: 18th Single B-side
+    lyricist: Kayako Kusano
+    composer: Konomi Suzuki
+    arranger: Hiroshi Kido
+  loveismyrail:
+    title: Love is MY RAIL
+  deepredheart:
+    title: Deep Red Heart
+  akenaiyoruni:
+    title: Akenai Yoru ni
+    description: 17th Single B-side
+    lyricist: Konomi Suzuki
+    composer: NAZCA
+    arranger: the Third

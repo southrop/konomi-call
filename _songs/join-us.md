@@ -2,7 +2,9 @@
 layout: song
 title: songs.joinus.title
 description: songs.joinus.description
-image: assets/images/pic08.jpg
+lyricomposer: songs.joinus.lyricomposer
+arranger: songs.joinus.arranger
+image: assets/images/13.jpg
 order: 8
 ---
 

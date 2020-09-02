@@ -8,11 +8,14 @@
 	{% include header.html %}
 
 	<h1>{% t page.title %}</h1>
-	<h2>{% if page.lyrics %}{% t songs.global.lyrics %}{% t page.lyrics %}{% endif %}
-		{% if page.lyrics and page.composition %}{% t songs.global.divider %}{% endif %}
-		{% if page.composition %}{% t songs.global.composition %}{% t page.composition %}{% endif %}
-		{% if page.composition and page.arrangement %}{% t songs.global.divider %}{% endif %}
-		{% if page.arrangement %}{% t songs.global.arrangement %}{% t page.arrangement %}{% endif %}</h2>
+	<h2>{% if page.lyricist %}{% t songs.global.lyricist %}{% t page.lyricist %}{% endif %}
+		{% if page.lyricist and page.composer or page.comparranger %}{% t songs.global.divider %}{% endif %}
+		{% if page.composer %}{% t songs.global.composer %}{% t page.composer %}{% endif %}
+		{% if page.lyricomposer %}{% t songs.global.lyricomposer %}{% t page.lyricomposer %}{% endif %}
+		{% if page.arranger and page.composer or page.lyricomposer %}{% t songs.global.divider %}{% endif %}
+		{% if page.arranger %}{% t songs.global.arranger %}{% t page.arranger %}{% endif %}
+		{% if page.comparranger %}{% t songs.global.comparranger %}{% t page.comparranger %}{% endif %}
+		{% if page.everything %}{% t songs.global.everything %}{% t page.everything %}{% endif %}</h2>
 	{% if page.image %}
 	<span class="image">
 		<img src="{{ page.image | relative_url }}" alt="">

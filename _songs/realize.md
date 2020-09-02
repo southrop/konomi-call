@@ -2,7 +2,8 @@
 layout: song
 title: songs.realize.title
 description: songs.realize.description
-image: assets/images/pic04.jpg
+everything: songs.realize.everything
+image: assets/images/18.jpg
 order: 4
 ---
 

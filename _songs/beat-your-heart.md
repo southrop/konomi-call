@@ -2,7 +2,7 @@
 layout: song
 title: songs.beatyourheart.title
 description: songs.beatyourheart.description
-image: assets/images/pic07.jpg
+image: assets/images/09.jpg
 order: 7
 ---
 

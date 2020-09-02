@@ -48,6 +48,8 @@
 				list-style: none;
 				margin: 0;
 				padding: 0;
+				background-color: transparentize(_palette(bg), 0.5);
+				border-radius: _size(border-radius);
 
 				li {
 					display: block;
@@ -58,17 +60,15 @@
 						position: relative;
 						height: 3em;
 						line-height: 3em;
-						padding: 0 1.5em;
-						background-color: transparentize(_palette(bg), 0.5);
-						border-radius: _size(border-radius);
+						padding: 0 1em;
 						border: 0;
-						font-size: 0.8em;
+						font-size: 1.5em;
 						font-weight: _font(weight-bold);
 						letter-spacing: _font(letter-spacing);
 						text-transform: uppercase;
 					}
 
-					a[href="#menu"] {
+					/*a[href="#menu"] {
 						-webkit-tap-highlight-color: transparent;
 						width: 4em;
 						text-indent: 4em;
@@ -110,7 +110,7 @@
 								opacity: 0;
 							}
 						}
-					}
+					}*/
 				}
 			}
 		}
@@ -122,7 +122,7 @@
 				right: 0.5em;
 				top: 0.5em;
 
-				ul {
+				/*ul {
 					li {
 						a[href="#menu"] {
 							&:before, &:after {
@@ -130,7 +130,7 @@
 							}
 						}
 					}
-				}
+				}*/
 			}
 		}
 	}

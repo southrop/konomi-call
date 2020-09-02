@@ -2,7 +2,7 @@
 layout: song
 title: songs.redo.title
 description: songs.redo.description
-image: assets/images/pic05.jpg
+image: assets/images/10.jpg
 order: 5
 ---
 
