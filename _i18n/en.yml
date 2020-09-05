@@ -5,11 +5,12 @@ menu:
   menu: Menu
 
 titles:
-  home: Home
-  landing: Suzuki Konomi Call Guide
-  description: A site with calls for all Suzuki Konomi songs
+  title: Konomi Suzuki Call Guide
+  description: A site with calls for Konomi Suzuki songs
 
 pages:
+  home:
+    title: Home
   test:
     title: Test
     description: Test Description

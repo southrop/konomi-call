@@ -1,7 +1,8 @@
 <head>
-	<title>{% t page.title %}</title>
+	<title>{% t page.title %}{% unless page.home %} | {% t titles.title %}{% endunless %}</title>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="{% t titles.description %}"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="robots" content="noindex, nofollow">
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->

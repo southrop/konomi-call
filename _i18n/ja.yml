@@ -7,11 +7,12 @@ menu:
   menu: メニュー
 
 titles:
-  home: トップ
-  landing: 鈴木このみコールガイド
-  description: 鈴木このみの曲のコールをまとめるサイト
+  title: 鈴木このみコールガイド
+  description: 鈴木このみの楽曲のコールをまとめるサイト
 
 pages:
+  home:
+    title: トップ
   test:
     title: テスト
     description: テスト詳細

@@ -22,7 +22,9 @@
 		{% if page.arranger %}{% t songs.global.arranger %}{% t page.arranger %}{% endif %}
 		{% if page.comparranger %}{% t songs.global.comparranger %}{% t page.comparranger %}{% endif %}
 		{% if page.everything %}{% t songs.global.everything %}{% t page.everything %}{% endif %}</h2>
-	{{ content }}
+	<div class="lyrics">
+		{{ content }}
+	</div>
 	</div>
 
 	{% include footer.html %}
