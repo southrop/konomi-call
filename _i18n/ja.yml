@@ -13,6 +13,8 @@ titles:
 pages:
   home:
     title: トップ
+  about:
+    title: このサイトについて
   test:
     title: テスト
     description: テスト詳細

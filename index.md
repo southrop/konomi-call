@@ -7,7 +7,7 @@ home: true
 
 <header>
 <h1>{% t titles.title %}</h1>
-{% tf index.md %}
+{% tf pages/index.md %}
 </header>
 
 {% include tiles.html %}

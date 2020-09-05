@@ -11,6 +11,8 @@ titles:
 pages:
   home:
     title: Home
+  about:
+    title: About
   test:
     title: Test
     description: Test Description
