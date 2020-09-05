@@ -11,7 +11,7 @@ no no no game no Life
 
 目に映るのは　完全勝利の運命  
 何もかも　計算通り　  
-　   **（fufuffu！）  （fufuffu！）**  
+　   **（fufuffu!）  （fufuffu!）**  
 変えてやる　染まらない空白で  
 　　　　　　　　　　　　 **（fufuffu！）**
 
@@ -31,7 +31,7 @@ no no no sence of life
 
 戦うことは　きっと間違いじゃない  
 手応えが　教えてくれた  
-　   **（fufuffu！） 　　 （fufuffu！）**  
+　   **（fufuffu!） 　　 （fufuffu!）**  
 全て失っても勝ち残れ  
 
 We are maverick 　常識なんていらない  
