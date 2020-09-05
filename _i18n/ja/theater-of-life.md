@@ -50,7 +50,7 @@
 **（Just follow me!）**  
 今語り始める　明日の続きを
 
-Just follow me！  
+Just follow me 
 **（to Dreamer, for Dreamer）**  
 間違えを指摘する人は放っておいて  
 **（to Believer, for Believer）**  
