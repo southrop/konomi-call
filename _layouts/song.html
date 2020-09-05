@@ -27,7 +27,7 @@ div.song>div.lyrics>p.color{{ forloop.index }}:before{ border: {% if color[1] %}
 		{% if page.arranger %}{% t songs.global.arranger %}{% t page.arranger %}{% endif %}
 		{% if page.comparranger %}{% t songs.global.comparranger %}{% t page.comparranger %}{% endif %}
 		{% if page.everything %}{% t songs.global.everything %}{% t page.everything %}{% endif %}</h2>
-	<div class="lyrics {% if page.colors %}colors color1{% endif %}" ><i class="fad fa-sword-laser fa-lg"></i>
+	<div class="lyrics {% if page.colors %}colors color1{% endif %}" >{% if page.colors %}<i class="fad fa-sword-laser fa-lg"></i>{% endif %}
 		{{ content }}
 	</div>
 	</div>
