@@ -33,7 +33,7 @@
 <nav id="menu" class="menu">
 	<h2>{% t menu.menu %}</h2>
 	<ul>
-		<li><a href="{{ site.baseurl }}/">{% t titles.home %}</a></li>
+		<li><a href="{{ site.baseurl }}/">{% t pages.home.title %}</a></li>
 		{% for page in site.pages %}
 		<li><a href="{{ site.baseurl }}{{ page.url }}">{% t page.title %}</a></li>
 		{% endfor %}
