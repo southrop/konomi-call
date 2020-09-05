@@ -40,17 +40,26 @@
 				margin: 0;
 			}
 
-			p:not(:first-child) {
+			p:not(:first-of-type) {
 				padding-top: 0.75em;
 			}
 
-			p:not(:last-child) {
+			p:not(:last-of-type) {
 				padding-bottom: 1.25em;
 			}
 		}
 
 		> div.colors {
 			border-color: red;
+
+			.fad {
+				float: left;
+				margin-top: -25px;
+				margin-left: -8px;
+				--fa-primary-opacity: 0.7;
+				--fa-secondary-color: #ff0000ff;
+				--fa-secondary-opacity: 0.8;
+			}
 
 			p {
 				border-left: solid 10px;
@@ -67,25 +76,25 @@
 				left: -8px;
 			}
 
-			p:first-child {
+			p:first-of-type {
 				border-radius: 4px 0 0 0;
 			}
 
-			p:first-child:before {
+			p:first-of-type:before {
 				border-radius: 4px 0 0 0;
 				bottom: 0px;
 			}
 
-			p:last-child {
+			p:last-of-type {
 				border-radius: 0 0 0 4px;
 			}
 
-			p:last-child:before {
+			p:last-of-type:before {
 				top: 0px;
 				border-radius: 0 0 0 4px;
 			}
 
-			p:not(:first-child):not(:last-child):before {
+			p:not(:first-of-type):not(:last-of-type):before {
 				top: 0px;
 				bottom: 0px;
 			}
