@@ -47,7 +47,7 @@ DAYS of DASH
 kaze wo hashiri nukete  
 kimi to boku no naka de  
 nani ga hajimatta no darou  
-wakarani kedo  
+wakaranai kedo  
 kirakira hikaru taiyou ga  
 terasu basho wa doko ni  
 nani wo hajimeyou to shiteru?  
