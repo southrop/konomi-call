@@ -13,7 +13,7 @@ no no no game no Life
 何もかも　計算通り　  
 　   **（fufuffu!）  （fufuffu!）**  
 変えてやる　染まらない空白で  
-　　　　　　　　　　　　 **（fufuffu！）**
+　　　　　　　　　　　　 **（fufuffu!）**
 
 We are maverick 　救済なんていらない  
 どんな理不尽襲おうとも　勝てばいいだけの話だろう  
