@@ -19,7 +19,7 @@
 
 君の憧れは　いつも輝いてた  
 I'll come back（Yeah）I'll come back（Yeah）To your future（Go away）  
-　　  　　　**（Yeah）　  　 　 　　（Yeah）　　　　　　（Go away）**  
+　　  　　 　**（Yeah）　  　 　 　　（Yeah）　　　　 　（Go away）**  
 僕は抗うだろう　運命に  
 Breaking out（Yeah）Breaking out（Yeah）Breaking down（Go away）  
 　　 　　　**（Yeah）　　　　　（Yeah）　　　　　 　（Go away）**  
