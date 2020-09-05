@@ -35,5 +35,59 @@
 
 		> div.lyrics {
 			min-height: 350px;
+			
+			p {
+				margin: 0;
+			}
+
+			p:not(:first-child) {
+				padding-top: 0.75em;
+			}
+
+			p:not(:last-child) {
+				padding-bottom: 1.25em;
+			}
+		}
+
+		> div.colors {
+			border-color: red;
+
+			p {
+				border-left: solid 10px;
+				border-color: inherit;
+				padding-left: 1em;
+				position: relative;
+			}
+
+			p:before {
+				content: "";
+				position: absolute;
+				top: 2px;
+				bottom: 2px;
+				left: -8px;
+			}
+
+			p:first-child {
+				border-radius: 4px 0 0 0;
+			}
+
+			p:first-child:before {
+				border-radius: 4px 0 0 0;
+				bottom: 0px;
+			}
+
+			p:last-child {
+				border-radius: 0 0 0 4px;
+			}
+
+			p:last-child:before {
+				top: 0px;
+				border-radius: 0 0 0 4px;
+			}
+
+			p:not(:first-child):not(:last-child):before {
+				top: 0px;
+				bottom: 0px;
+			}
 		}
 	}

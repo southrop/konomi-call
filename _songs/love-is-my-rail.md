@@ -6,6 +6,9 @@ lyricist: songs.loveismyrail.lyricist
 comparranger: songs.loveismyrail.comparranger
 image: assets/images/11.jpg
 order: 14
+colors:
+  - - '#59d8d8cf'
+  - - orange
 ---
 
 {% tf love-is-my-rail.md %}
