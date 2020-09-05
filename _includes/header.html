@@ -6,7 +6,7 @@
 		<a href="{{ site.baseurl }}/" class="logo">
 			<span class="symbol">
 				{% if site.font-awesome-icon-logo %}
-				<div href="#" class="fa {{ site.font-awesome-icon-logo }}"></div>
+				<div href="#" class="icon style1 fas {{ site.font-awesome-icon-logo }}"></div>
 				{% else %}
 				<img src="{{ site.baseurl }}/{{ site.logo-image-url }}" alt="" />
 				{% endif %}
@@ -14,8 +14,8 @@
 		</a>
 		<nav>
 			<ul>
-				<li><a href="#lang"><i class="fa fa-language" aria-hidden="true"></i></a></li>
-				<li><a href="#menu"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
+				<li><a href="#lang"><i class="fas fa-language" aria-hidden="true"></i></a></li>
+				<li><a href="#menu"><i class="fas fa-bars" aria-hidden="true"></i></a></li>
 			</ul>
 		</nav>
 	</div>
@@ -33,9 +33,9 @@
 <nav id="menu" class="menu">
 	<h2>{% t menu.menu %}</h2>
 	<ul>
-		<li><a href="{{ site.baseurl }}/"><i class="fa fa-home" aria-hidden="true"></i>  {% t pages.home.title %}</a></li>
+		<li><a href="{{ site.baseurl }}/"><i class="fas fa-home" aria-hidden="true"></i>  {% t pages.home.title %}</a></li>
 		{% for page in site.pages %}
-		<li><a href="{{ site.baseurl }}{{ page.url }}"><i class="fa {% if page.icon %}{{ page.icon }}{% else %}fa-file-alt{% endif %}" aria-hidden="true"></i>{% t page.title %}</a></li>
+		<li><a href="{{ site.baseurl }}{{ page.url }}"><i class="fas {% if page.icon %}{{ page.icon }}{% else %}fa-file-alt{% endif %}" aria-hidden="true"></i>{% t page.title %}</a></li>
 		{% endfor %}
 	</ul>
 </nav>
