@@ -10,6 +10,7 @@ I'm dreaming
 胸が痛む訳 考えていた
 
 DAYS of DASH  
+**(DAYS of DASH)**  
 風を走り抜けて‥  
 君と僕の中で 何が始まったのだろう  
 わからないけど  
@@ -28,6 +29,7 @@ DAYS of DASH
 あきらめるなんてあり得ないよ
 
 EYES to EYES  
+**(EYES to EYES)**  
 言葉いらない世界  
 君と僕の世界 今が始まったのだろう  
 わかりかけてる  
@@ -45,7 +47,8 @@ DAYS of DASH
 わからないけど  
 きらきら光る太陽が照らす場所はどこに  
 何を始めようとしてる?  
-I'm a dreamer
+I'm a dreamer  
+**(I'm a dreamer)**  
 
 もう言葉いらない世界  
 君と僕の世界 今が始まったのだろう  
