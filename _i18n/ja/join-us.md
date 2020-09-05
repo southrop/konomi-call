@@ -20,14 +20,14 @@
 
 ここへおいでよ  
 最高を誓おう  
-違いをリスペクト**（yeah!）**  
-courage**（yeah!!）**  
+違いをリスペクト **（yeah!）**  
+courage **（yeah!!）**  
 心に留めておいてほしい  
 
 君と私  
 踏み出す未来に  
-迷いはないさ**（yeah!）**  
-join us**（yeah!）**  
+迷いはないさ **（yeah!）**  
+join us **（yeah!）**  
 これからもまたずっとずっと
 
 ◆間奏(hi!…)
@@ -51,36 +51,37 @@ reload 苦労 you know 譲れない
 
 ここへおいでよ  
 今を刻もう  
-ごめんねthank you**（yeah!）**  
-honest**（yeah!）**  
+ごめんねthank you **（yeah!）**  
+honest **（yeah!）**  
 いつも全力でいてほしい
 
 君と私
 向き合える時代に
-ためらわないさ**（yeah!）**  
-join us**（yeah!）**  
+ためらわないさ **（yeah!）**  
+join us **（yeah!）**  
 これからもまたずっとずっと
 
 ◆間奏(hi!…)
 
-何が起こるかわからないけど**（just believe, OK!!）**  
-もし迷って**（OK!!）**  
-悔やんで**（OK!!）**  
-lost**（just believe, OK!!）**  
+何が起こるかわからないけど **（just believe, OK!!）**  
+もし迷って **（OK!!）**  
+悔やんで **（OK!!）**  
+lost **（just believe, OK!!）**  
 
-何度でもまっすぐな思いを**（just believe, OK!!）**  
-届けたいよ**（OK!!）**  
-ready**（OK!!）**  
-go**（just believe, OK!!）**  
+何度でもまっすぐな思いを **（just believe, OK!!）**  
+届けたいよ **（OK!!）**  
+ready **（OK!!）**  
+go **（just believe, OK!!）**  
 hey, guitar!!  
 and bass!!  
 and drums!!  
 make some noise, more!!
-ここへおいでよ
-最高を誓おう
-違いをリスペクト
-courage
-心に留めておいてほしい
+
+ここへおいでよ  
+最高を誓おう  
+違いをリスペクト  
+courage  
+心に留めておいてほしい  
 
 君と私  
 踏み出す未来に  
@@ -90,14 +91,14 @@ join us
 
 ここへおいでよ  
 今を刻もう  
-ごめんねthank you**（yeah!）**  
-honest**（yeah!）**  
+ごめんねthank you **（yeah!）**  
+honest **（yeah!）**  
 いつも全力でいてほしい
 
 君と私  
 向き合える時代に  
-ためらわないさ**（yeah!）**  
-join us**（yeah!）**  
+ためらわないさ **（yeah!）**  
+join us **（yeah!）**  
 これからもまたずっとずっと
 
 ◆後奏(hi!…)
