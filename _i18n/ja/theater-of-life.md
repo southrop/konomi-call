@@ -21,7 +21,7 @@
 本当の色と             
 **（LIFE IS FAKE SHOW）**  
 本当の音が  
-**（Just follow me！）**    
+**（Just follow me!）**    
 今語り始めた　明日の話
 
 ずっと前から探してたモノ  
@@ -47,7 +47,7 @@
 信じたボクと  
 **（LIFE IS FAKE SHOW）**  
 信じたキミで　　   
-**（Just follow me！）**  
+**（Just follow me!）**  
 今語り始める　明日の続きを
 
 Just follow me！  
@@ -76,7 +76,7 @@ Just follow me！
 本当の色と             
 **（LIFE IS FAKE SHOW）**  
 本当の音が  
-**（Just follow me！）**    
+**（Just follow me!）**    
 今語り始めた　明日の話
 
 苦しくても悲しくても　最期の日までは終わらないから  
