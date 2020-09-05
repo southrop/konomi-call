@@ -2,6 +2,7 @@
 layout: home
 title: titles.title
 description: titles.description
+icon: fa-home
 home: true
 ---
 

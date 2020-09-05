@@ -13,6 +13,8 @@ pages:
     title: Home
   about:
     title: About
+  songs:
+    title: All Songs
   test:
     title: Test
     description: Test Description

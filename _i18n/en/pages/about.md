@@ -1,6 +1,11 @@
 ## Copyright
 
-All lyrics are copyright of their respective owners.
+All CD jackets and lyrics are copyright of their respective creators, record labels, and artists.
+
+JASRAC application pending.
+
+<!-- JASRAC Permit No. Jxxxxxxxxx  
+![]({{ "assets/images/jasrac.gif" | relative_url }}) -->
 
 ## Credits
 
