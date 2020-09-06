@@ -42,7 +42,7 @@ This is a song of hope,for those who feel loneliness.
 What can they do for the future,those who never knew this sorrow.  
 CHECK IT. BREAK DOWN  
 
-間奏（hi…!）
+◆間奏（hi…!）
 
 みんなが好きだから 正しいとか そういうのやめろや  
        　　　　　　　　          **（正しいとか）**  
