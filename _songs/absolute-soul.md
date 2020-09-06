@@ -8,4 +8,4 @@ colors:
   - - red
 ---
 
-{% tf absolute-soul.md %}
+{% tf songs/absolute-soul.md %}

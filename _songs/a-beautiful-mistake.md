@@ -9,4 +9,4 @@ image: assets/images/18.jpg
 order: 13
 ---
 
-{% tf a-beautiful-mistake.md %}
+{% tf songs/a-beautiful-mistake.md %}

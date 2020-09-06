@@ -6,4 +6,4 @@ image: assets/images/14.jpg
 order: 9
 ---
 
-{% tf sky-blue-oasis.md %}
+{% tf songs/sky-blue-oasis.md %}

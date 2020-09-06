@@ -9,4 +9,4 @@ colors:
     - white
 ---
 
-{% tf this-game.md %}
+{% tf songs/this-game.md %}

@@ -11,4 +11,4 @@ colors:
   - - orange
 ---
 
-{% tf love-is-my-rail.md %}
+{% tf songs/love-is-my-rail.md %}

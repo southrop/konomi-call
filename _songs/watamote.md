@@ -9,4 +9,4 @@ colors:
   - - red
 ---
 
-{% tf watamote.md %}
+{% tf songs/watamote.md %}

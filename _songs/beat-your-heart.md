@@ -8,4 +8,4 @@ colors:
   - - red
 ---
 
-{% tf beat-your-heart.md %}
+{% tf songs/beat-your-heart.md %}

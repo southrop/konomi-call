@@ -9,4 +9,4 @@ image: assets/images/17.jpg
 order: 16
 ---
 
-{% tf akenai-yoru-ni.md %}
+{% tf songs/akenai-yoru-ni.md %}

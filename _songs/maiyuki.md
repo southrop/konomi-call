@@ -8,4 +8,4 @@ image: assets/images/19.jpg
 order: 7
 ---
 
-{% tf maiyuki.md %}
+{% tf songs/maiyuki.md %}

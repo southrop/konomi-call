@@ -8,4 +8,4 @@ image: assets/images/13.jpg
 order: 8
 ---
 
-{% tf join-us.md %}
+{% tf songs/join-us.md %}

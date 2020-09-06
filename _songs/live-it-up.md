@@ -8,4 +8,4 @@ image: assets/images/19.jpg
 order: 10
 ---
 
-{% tf live-it-up.md %}
+{% tf songs/live-it-up.md %}

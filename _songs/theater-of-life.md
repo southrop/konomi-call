@@ -7,4 +7,4 @@ image: assets/images/17.jpg
 order: 1
 ---
 
-{% tf theater-of-life.md %}
+{% tf songs/theater-of-life.md %}
