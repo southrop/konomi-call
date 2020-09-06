@@ -1,81 +1,87 @@
-嬉しい時　悲しい時  
-全てにyesと言えたなら  
-(in high spirits！！)  
+◆前奏（hi!…）
+
+嬉しい時 悲しい時 全てにyes と言えたなら  
+（in high spirits!!）  
+**（in high spirits!!）**  
 きっと何でもできる  
-不思議なエナジー
+不思議なエナジー  
 
 このリズムもこのビートも  
 一人のものだけじゃない  
-(だれだってオーライ！！)  
+（だれだってオーライ!!）  
+**（だれだってオーライ!!）**  
 色んなスリルに満ちた世界  
 もっと照らしたい
 
-お互い様　憧憬  
-膨らんでく　期待と共にある  
-無論 hello　希望　忘れない  
-重ねた先の今
+お互い様 憧憬  
+膨らんでく 期待と共にある  
+無論 hello 希望 忘れない  
+重ねた先の今  
 
 ここへおいでよ  
 最高を誓おう  
-違いをリスペクト(yeah！)  
-courage(yeah！！)  
-心に留めておいてほしい
+違いをリスペクト **（yeah!）**  
+courage **（yeah!!）**  
+心に留めておいてほしい  
 
 君と私  
 踏み出す未来に  
-迷いはないさ(yeah！)  
-join us(yeah！！)  
+迷いはないさ **（yeah!）**  
+join us **（yeah!）**  
 これからもまたずっとずっと
 
-楽しい時　思い出して  
-ベストタイミングを待つのさ  
-be yourself  
-きっとチャンスは巡る  
-stay with me　シナジー
+◆間奏（hi!…）
 
-止まれなくて　乗りこなせない  
+楽しい時 思い出して  
+ベストタイミングを待つのさ be yourself!!  
+きっとチャンスは巡る  
+stay with me シナジー  
+
+止まれなくて 乗りこなせない  
 グルーヴもみんなとならば  
-(ぶつかってオーライ！！)  
-あっという間に映る　anytime  
+（ぶつかってオーライ!!）  
+**（ぶつかってオーライ!!）**  
+あっという間に映る anytime  
 もっと過ごしたい
 
-誰しも持つ　情熱  
-研ぎ澄ませて　未来につないでく  
-reload　苦労　you know譲れない  
+誰しも持つ 情熱  
+研ぎ澄ませて 未来につないでく  
+reload 苦労 you know 譲れない  
 重ねた先の今
 
 ここへおいでよ  
 今を刻もう  
-ごめんねthank you(yeah！)  
-honest(yeah！！)  
+ごめんねthank you **（yeah!）**  
+honest **（yeah!）**  
 いつも全力でいてほしい
 
-君と私  
-向き合える時代に  
-ためらわないさ(yeah！)  
-join us(yeah！！)  
+君と私
+向き合える時代に
+ためらわないさ **（yeah!）**  
+join us **（yeah!）**  
 これからもまたずっとずっと
 
-何が起こるかわからないけど  
-(just believe,OK！！)  
-もし迷って(OK！！)  
-悔やんで(OK！！)  
-lost(just believe,OK！！)
+◆間奏（hi!…）
 
-何度でもまっすぐな思いを(just believe,OK！！)  
-届けたいよ(OK！！)  
-ready(OK！！)  
-go(just believe,OK！！)  
-hey,guitar！！  
-and bass！！  
-and drums！！  
-make some noise,more！！
+何が起こるかわからないけど **（just believe, OK!!）**  
+もし迷って **（OK!!）**  
+悔やんで **（OK!!）**  
+lost **（just believe, OK!!）**  
+
+何度でもまっすぐな思いを **（just believe, OK!!）**  
+届けたいよ **（OK!!）**  
+ready **（OK!!）**  
+go **（just believe, OK!!）**  
+hey, guitar!!  
+and bass!!  
+and drums!!  
+make some noise, more!!
 
 ここへおいでよ  
 最高を誓おう  
 違いをリスペクト  
 courage  
-心に留めておいてほしい
+心に留めておいてほしい  
 
 君と私  
 踏み出す未来に  
@@ -85,12 +91,14 @@ join us
 
 ここへおいでよ  
 今を刻もう  
-ごめんねthank you(yeah！)  
-honest(yeah！！)  
+ごめんねthank you **（yeah!）**  
+honest **（yeah!）**  
 いつも全力でいてほしい
 
 君と私  
 向き合える時代に  
-ためらわないさ(yeah！)  
-join us(yeah！！)  
+ためらわないさ **（yeah!）**  
+join us **（yeah!）**  
 これからもまたずっとずっと
+
+◆後奏（hi!…）
