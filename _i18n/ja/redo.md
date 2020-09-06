@@ -34,7 +34,7 @@ Breaking out（Yeah）Breaking out（Yeah）Breaking down（Go away）
 　　 　　**（Redo）**
 
 
-◆間奏(hi!…)
+◆間奏（hi!…）
 
 君がたとえ僕のこと  
 忘れても　僕はもう忘れない　誰も傷つけない  
