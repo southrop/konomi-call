@@ -77,21 +77,21 @@
 			}
 
 			p:first-of-type {
-				border-radius: 4px 0 0 0;
+				border-top-left-radius: 4px;
 			}
 
-			p:first-of-type:before {
-				border-radius: 4px 0 0 0;
+			p:first-of-type:not(:last-of-type):before {
 				bottom: 0px;
+				border-top-left-radius: 4px;
 			}
 
 			p:last-of-type {
-				border-radius: 0 0 0 4px;
+				border-bottom-left-radius: 4px;
 			}
 
-			p:last-of-type:before {
+			p:last-of-type:not(:first-of-type):before {
 				top: 0px;
-				border-radius: 0 0 0 4px;
+				border-bottom-left-radius: 4px;
 			}
 
 			p:not(:first-of-type):not(:last-of-type):before {
