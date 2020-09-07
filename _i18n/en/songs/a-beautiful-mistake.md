@@ -41,8 +41,8 @@ machigaete tatte ii mune hatte manten ageyou
 zenshin de idonde zenrei de tsukande  
 boku ga erandekita kizudarake no kotae da
 
-iza sesuji nobashite mistake
-pinchi wo chanto tanoshinde
-shippai mo koukai mo seikai datta to waraeru you ni
-isshou de hitotsu dake kenmei ni nareru koto
+iza sesuji nobashite mistake  
+pinchi wo chanto tanoshinde  
+shippai mo koukai mo seikai datta to waraeru you ni  
+isshou de hitotsu dake kenmei ni nareru koto  
 mitsukerareta boku no yuiitsu muni no kotae da
