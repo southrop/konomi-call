@@ -2,6 +2,8 @@
 layout: song
 title: songs.skyblueoasis.title
 description: songs.skyblueoasis.description
+lyricist: songs.skyblueoasis.lyricist
+comparranger: songs.skyblueoasis.comparranger
 image: assets/images/14.jpg
 order: 9
 ---

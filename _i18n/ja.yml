@@ -46,9 +46,12 @@ songs:
   realize:
     title: Realize
     description: 18thシングル<br>TVアニメ「Re:ゼロから始める異世界生活」2nd season OPテーマ
-    everything: 篠崎あやと、橘亮祐
+    everything: 篠崎あやと、橘 亮祐
   redo:
     title: Redo
+    description: 10thシングル<br>TVアニメ「Re:ゼロから始める異世界生活」OPテーマ
+    lyricist: ミズノゲンキ
+    comparranger: 宮崎 誠
   maiyuki:
     title: 舞い降りてきた雪
     description: 19thシングル<br>TVアニメ「恋とプロデューサー～EVOL×LOVE」EDテーマ
@@ -56,6 +59,10 @@ songs:
     arranger: 荒幡亮平
   beatyourheart:
     title: Beat your Heart
+    description: 9thシングル<br>TVアニメ「ブブキ・ブランキ」OPテーマ
+    lyricist: 松浦勇気、AIJ
+    composer: 松浦勇気
+    arranger: 宮崎 誠
   joinus:
     title: join us
     description: 13thシングル カップリング曲
@@ -63,6 +70,9 @@ songs:
     arranger: 白戸佑輔
   skyblueoasis:
     title: Sky Blue OASIS
+    description: 14thシングル カップリング曲
+    lyricist: 稲葉エミ
+    comparranger: eba
   liveitup:
     title: Live it up！
     description: 19thシングル カップリング曲
@@ -70,8 +80,16 @@ songs:
     comparranger: 加藤裕介
   absolutesoul:
     title: Absolute Soul
+    description: 8thシングル<br>TVアニメ「アブソリュート・デュオ」OPテーマ
+    lyricist: 坂井竜二
+    composer: 若林 充
+    arranger: 村井 大
   thisgame:
     title: This game
+    description: 6thシングル<br>TVアニメ「ノーゲーム・ノーライフ」OPテーマ
+    lyricist: 深青結希
+    composer: 若林 充
+    arranger: eba<br>　　　秋月須清（ストリングスアレンジ）
   abeautifulmistake:
     title: A Beautiful Mistake
     description: 18thシングル カップリング曲
@@ -85,6 +103,9 @@ songs:
     comparranger: 白戸佑輔
   deepredheart:
     title: Deep red heart
+    description: 8thシングル カップリング曲
+    lyricist: 深青結希
+    comparranger: 若林 充
   akenaiyoruni:
     title: 明けない夜に
     description: 17thシングル カップリング曲

@@ -47,6 +47,9 @@ songs:
     everything: Ayato Shinozaki, Ryosuke Tachibana
   redo:
     title: Redo
+    description: 10th Single<br>TV Anime "Re:Zero − Starting Life in Another World" Opening Theme
+    lyricist: Genki Mizuno
+    comparranger: Makoto Miyazaki
   maiyuki:
     title: Mai orite kita Yuki
     description: 19th Single<br>TV Anime "Love and Producer ~EVOL×LOVE~" Ending Theme
@@ -54,6 +57,10 @@ songs:
     arranger: Ryohei Arahata
   beatyourheart:
     title: Beat your Heart
+    description: 9th Single<br>TV Anime "BBK/BRNK" Opening Theme
+    lyricist: Yuki Matsuura, AIJ
+    composer: Yuki Matsuura
+    arranger: Makoto Miyazaki
   joinus:
     title: join us
     description: 13th Single B-side
@@ -61,6 +68,9 @@ songs:
     arranger: Yusuke Shirato
   skyblueoasis:
     title: Sky Blue OASIS
+    description: 14th Single B-side
+    lyricist: Emi Inaba
+    comparranger: eba
   liveitup:
     title: Live it up!
     description: 19th Single B-side
@@ -68,8 +78,16 @@ songs:
     comparranger: Yusuke Kato
   absolutesoul:
     title: Absolute Soul
+    description: 8th Single<br>TV Anime "Absolute Duo" Opening Theme
+    lyricist: Ryuji Sakai
+    composer: Mitsuru Wakabayashi
+    arranger: Dai Murai
   thisgame:
     title: This game
+    description: 6th Single<br>TV Anime "No Game No Life" Opening Theme
+    lyricist: Yuki Misao
+    composer: Mitsuru Wakabayashi
+    arranger: eba, Susumu Akizuki (Strings)
   abeautifulmistake:
     title: A Beautiful Mistake
     description: 18th Single B-side
@@ -83,6 +101,9 @@ songs:
     comparranger: Yusuke Shirato
   deepredheart:
     title: Deep red heart
+    description: 8th Single B-side
+    lyricist: Yuki Misao
+    comparranger: Mitsuru Wakabayashi
   akenaiyoruni:
     title: Akenai Yoru ni
     description: 17th Single B-side
