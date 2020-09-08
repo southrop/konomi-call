@@ -17,10 +17,15 @@
 			float: right;
 			margin: 0 0 (_size(element-margin) * 1) (_size(element-margin) * 1);
 
+			@media screen and (max-width: 390px) {
+				float: right;
+				margin-left: 0;
+			}
+
 			@media screen and (min-width: 390px) and (max-width: 650px) {
 				float: none;
 				width: 100%;
-				margin: 0 0 (_size(element-margin) * 1) 0;
+				margin-left: 0;
 			}
 
 			> img {
