@@ -30,7 +30,7 @@
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
-　絆を示せ　（High!!）
+　絆を示せ　（High!!）  
 　　　　　**（High!!）** 　　　　　
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
@@ -63,15 +63,15 @@
 　前に　もっと **＜hi!＞** もっと**＜hi!＞**  
 　強く　一度しかない人生を
 
-　Nothing’s in my way
+　Nothing’s in my way  
 **（Nothing’s in my way）** 
-　Turn! On! Your! Heart! Beat!
+　Turn! On! Your! Heart! Beat!  
 **（Turn! On! Your! Heart! Beat!）**
 
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　Bangin’, knockin’ heart  
-　魂よ沸（たぎ）れ (High!!)
+　魂よ沸（たぎ）れ (High!!)  
  　　　　　　　**（High!!）** 　　
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
