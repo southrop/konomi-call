@@ -40,9 +40,15 @@
 
 		> div.lyrics {
 			min-height: 350px;
+			overflow-x: scroll;
 			
 			p {
 				margin: 0;
+				inline-size: max-content;
+
+				@media screen and (max-width: 650px) {
+					font-size: 0.9rem;
+				}
 			}
 
 			p:not(:first-of-type) {
