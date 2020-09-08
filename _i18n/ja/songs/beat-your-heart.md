@@ -2,8 +2,7 @@
 
 　When I was a kid, in a crazy dream  
 　I was gazin’ up to the Promised Land  
-　僕らのユメの形　ザワメキ出す  
-　**(Heart! Beat!)**
+　僕らのユメの形　ザワメキ出す　**_Heart! Beat!_**
 
 　Come on let’s go to that place  
 　I just can’t stop anymore  
@@ -12,39 +11,34 @@
 
 　信じたい　この世界に生まれたことが  
 　幸せってこと  新時代へ続く  
-　扉を開けるんだ  
- 　**(wow wow oh oh oh.)**
+　扉を開けるんだ　　
+　**_wow wow oh oh oh._**
 
 　なぁ、わかってるんだろう？  
 　僕らはいつだって傷だらけで  
 　悲しみのルーツ断ち切って  
 　怖くないよ　いつでも傍に感じるから  
-　だから　もっと　もっと    
-　　　　　　　**（hi!）　（hi!）**  
-　熱い　力が心満たしてく  
+　だから　もっと **＜hi!＞** もっと**＜hi!＞**  
+  　熱い　力が心満たしてく  
 
-　1, 2, 3, 4, 5  
-**（1, 2, 3, 4, 5）**  
-　Wake! Up! Your! Heart! Beat!  
-**（Wake! Up! Your! Heart! Beat!）**
+　**_1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!_**
 
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
-　絆を示せ **（High!!）**  
+　絆を示せ **_（High!!）_**  
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Over Boost!
 
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
-　My blood will burn on ah fight on!  
-　　　　　　　 　　 　 **(ah fight on!)**
+　My blood will burn on **_ah fight on! _**
 
 　When a sky is dark , I forget to give  
 　But you came with me, I remembered it  
 　僕らのアイの形　重なり出す  
- **(Heart! Beat!)**
+　**_Heart! Beat!_**
 
 　When your day is gray, I will be a flame  
 　Sparkle up, gonna start again  
@@ -52,24 +46,20 @@
 
 　感受性　繊細な胸に刻まれた拒絶 恐怖  
 　全否定の壁に諦めたくないよ  
-　**(wow wow oh oh oh.)**
+　**_wow wow oh oh oh._**
 
 　そう、守らなくちゃ　君のためになら  
 　この身体で　乱れ舞うノーツぶつけて  
 　確かな鼓動　心の奥　響いたから  
-　前に　もっと　もっと    
-　　　　　　**（hi!）　（hi!）**  
+　前に　もっと **＜hi!＞** もっと**＜hi!＞**  
 　強く　一度しかない人生を
 
-　Nothing’s in my way  
-**（Nothing’s in my way）**  
-　Turn! On! Your! Heart! Beat!  
-**（Turn! On! Your! Heart! Beat!）**
+**_Nothing’s in my way Turn! On! Your! Heart! Beat!_**
 
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　Bangin’, knockin’ heart  
-　魂よ沸（たぎ）れ **(High!!)**  
+　魂よ沸（たぎ）れ **_(High!!)_**  
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　No stoppin!
@@ -77,8 +67,7 @@
 　This is a battle jungle! Buckle your belt  
 　Are you ready now?  
 　We’re gonna fight it　Do it! Do it! Do it!  
-　This blood will lead me　Ah beat it!  
-　　　　　　　 　　　　 **(Ah beat it!)**
+　This blood will lead me　**Ah beat it!**
 
 ◆間奏（hi!…）
 
@@ -86,29 +75,21 @@
 　僕らはいつだって挑戦をして  
 　限界のルーフ振り切って  
 　怖くないよ　いつでも傍に感じるから  
-　だから　もっと　もっと　もっと　もっと  
-　　　　　　**（hi!）　（hi!） （hi!） （hi!）**  
+　だから　もっと **＜hi!＞** もっと**＜hi!＞** もっと **＜hi!＞** もっと**＜hi!＞**    
 　熱い　力が心満たしてく
-
-　1, 2, 3, 4, 5　Wake! Up! Your! Heart! Beat!  
-**（1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!）**
-
-　1, 2, 3, 4, 5  
-**（1, 2, 3, 4, 5）**  
-　Wake! Up! Your! Heart! Beat!  
-**（Wake! Up! Your! Heart! Beat!）**
+ 
+　**_1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!_**
 
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
-　Brave and boiling heart　絆を示せ  
-　**（High!!）**  
+　Brave and boiling heart  
+　絆を示せ **_（High!!）_**  
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Over Boost!
 
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
-　My blood will burn on ah fight on!  
-　　　　　　　　　 　 **(ah fight on!)**
+　My blood will burn on **_ah fight on! _**
 
 ◆後奏（hi!…）
