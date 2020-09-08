@@ -64,7 +64,7 @@
 　強く　一度しかない人生を
 
 　Nothing’s in my way  
-**（Nothing’s in my way）** 
+**（Nothing’s in my way）**  
 　Turn! On! Your! Heart! Beat!  
 **（Turn! On! Your! Heart! Beat!）**
 
@@ -80,7 +80,7 @@
 　This is a battle jungle! Buckle your belt  
 　Are you ready now?  
 　We’re gonna fight it　Do it! Do it! Do it!  
-　This blood will lead me　Ah beat it!
+　This blood will lead me　Ah beat it!  
 　　　　　　　　　　　　　**（Ah beat it!）**
 
 ◆間奏＜hi!…＞
@@ -99,7 +99,7 @@
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
-　絆を示せ　（High!!）
+　絆を示せ　（High!!）  
 　　　　　**（High!!）**  
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
