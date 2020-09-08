@@ -1,31 +1,37 @@
 ◆前奏（hi!…）
 
-When I was a kid, in a crazy dream  
-I was gazin’ up to the Promised Land  
-僕らのユメの形 ザワメキ出す Heart! Beat!  
-　　 　　　　　　　　　　　**(Heart! Beat!)**
+　When I was a kid, in a crazy dream  
+　I was gazin’ up to the Promised Land  
+　僕らのユメの形　ザワメキ出す  
+　**(Heart! Beat!)**
 
-Come on let’s go to that place  
-I just can’t stop anymore  
-飛びだせ　仄暗（ほのぐら）い空　fly into the light
+　Come on let’s go to that place  
+　I just can’t stop anymore  
+　飛びだせ　仄暗（ほのぐら）い空  
+　fly into the light
 
-信じたいこの世界に生まれたことが幸せってこと  
-新時代へ続く扉を開けるんだ　wow wow oh oh oh.  
- 　　　　　　　　　　　　　　 **(wow wow oh oh oh.)**
+　信じたい　この世界に生まれたことが  
+　幸せってこと  新時代へ続く  
+　扉を開けるんだ **(wow wow oh oh oh.)**
 
-なぁ、わかってるんだろう？　僕らはいつだって傷だらけで  
-悲しみのルーツ断ち切って　怖くないよ　いつでも傍に感じるから  
-だから　もっと　もっと　熱い　力が心満たしてく  
-　　 　　 　**（hi!） 　 （hi!）**
+　なぁ、わかってるんだろう？  
+　僕らはいつだって傷だらけで  
+　悲しみのルーツ断ち切って  
+　怖くないよ　いつでも傍に感じるから  
+　だから　もっと　もっと　熱い　力が心満たしてく  
+　　　　　　　**（hi!）　　（hi!）**
 
-1, 2, 3, 4, 5　Wake! Up! Your! Heart! Beat!  
-**（1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!）**
+　1, 2, 3, 4, 5  
+**（1, 2, 3, 4, 5）**  
+　Wake! Up! Your! Heart! Beat!  
+**（Wake! Up! Your! Heart! Beat!）**
 
-Blaze（ブレず）に生きていくんだ　ドキドキ感じて Burning!  
-Brave and boiling heart　絆を示せ（High!!）  
-　　　　　　　　　　 　　　 　　 **(High!!)**  
-Blaze（ブレず）に生きていくんだ　ドキドキ感じて Burning!  
-Over Boost!
+　Blaze（ブレず）に生きていくんだ  
+　ドキドキ感じて Burning!  
+　Brave and boiling heart　絆を示せ **（High!!）**  
+　Blaze（ブレず）に生きていくんだ  
+　ドキドキ感じて Burning!  
+　Over Boost!
 
 This is a real deal! No more liars  
 Ignition’s ON, my heart is on Fire Fire Fire  
