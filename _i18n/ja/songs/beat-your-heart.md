@@ -19,7 +19,7 @@
 　悲しみのルーツ断ち切って  
 　怖くないよ　いつでも傍に感じるから  
 　だから　もっと　もっと    
-　　　　　　　**（hi!）　　（hi!）**  
+　　　　　　　**（hi!）　（hi!）**  
 　熱い　力が心満たしてく  
 
 　1, 2, 3, 4, 5  
@@ -55,7 +55,7 @@
 　そう、守らなくちゃ　君のためになら　この身体で  
 　乱れ舞うノーツぶつけて 確かな鼓動　心の奥　響いたから  
 　前に　もっと　もっと    
-　　　　　　**（hi!）　　（hi!）**  
+　　　　　　**（hi!）　（hi!）**  
 　強く　一度しかない人生を
 
 　Nothing’s in my way  
@@ -70,7 +70,8 @@
 　No stoppin!
 
 　This is a battle jungle!　Buckle your belt  
-　Are you ready now?　We’re gonna fight it　Do it! Do it! Do it!  
+　Are you ready now?  
+　We’re gonna fight it　Do it! Do it! Do it!  
 　This blood will lead me　Ah beat it!  
 　　　　　　　 　　　　 **(Ah beat it!)**
 
@@ -80,7 +81,7 @@
 　僕らはいつだって挑戦をして　限界のルーフ振り切って  
 　怖くないよ　いつでも傍に感じるから  
 　だから　もっと　もっと　もっと　もっと  
-　　　　　　**（hi!）　（hi!） （hi!）　 （hi!）**  
+　　　　　　**（hi!）　（hi!） （hi!） （hi!）**  
 　熱い　力が心満たしてく
 
 1, 2, 3, 4, 5　Wake! Up! Your! Heart! Beat!  
