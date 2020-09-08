@@ -21,10 +21,12 @@
 　嫌いになって　泣いてても
 
 　君の憧れは　いつも輝いてた  
-　I'll come back **（Yeah）** I'll come back **（Yeah）**  
+　I'll come back **（Yeah）**  
+　I'll come back **（Yeah）**  
 　To your future **（Go away）**  
 　僕は抗うだろう　運命に  
-　Breaking out **（Yeah）** Breaking out **（Yeah）**
+　Breaking out **（Yeah）**  
+　Breaking out **（Yeah）**  
 　Breaking down **（Go away）**  
 　諦めちゃいないから
 
@@ -34,7 +36,7 @@
 　世界はそう君のため　最初から  
 　胸に抱いた思い出とずっと  
 　あの日から続く決意で　飛べるよ　Redo  
-　　　　　　　　　　　　　　　　　**（Redo）**
+　　　　　　　　　　　　　　　**（Redo）**
 
 ◆間奏（hi!…）
 
