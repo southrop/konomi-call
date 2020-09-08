@@ -52,7 +52,7 @@
 
 　感受性　繊細な胸に刻まれた拒絶 恐怖  
 　全否定の壁に諦めたくないよ  
- **(wow wow oh oh oh.)**
+**(wow wow oh oh oh.)**
 
 　そう、守らなくちゃ　君のためになら  
 　この身体で　乱れ舞うノーツぶつけて  
@@ -68,8 +68,8 @@
 
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
-　Bangin’, knockin’ heart  
-　魂よ沸（たぎ）れ **(High!!)**  
+　Bangin’, knockin’ heart　魂よ沸（たぎ）れ  
+**(High!!)**  
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　No stoppin!
@@ -78,7 +78,7 @@
 　Are you ready now?  
 　We’re gonna fight it　Do it! Do it! Do it!  
 　This blood will lead me　Ah beat it!  
-　　　　　　　 　　　　 **(Ah beat it!)**
+　　　　　　　 　　　　　　 **(Ah beat it!)**
 
 ◆間奏（hi!…）
 
@@ -89,7 +89,7 @@
 　　　　　　**（hi!）　（hi!） （hi!） （hi!）**  
 　熱い　力が心満たしてく
 
-1, 2, 3, 4, 5　Wake! Up! Your! Heart! Beat!  
+　1, 2, 3, 4, 5　Wake! Up! Your! Heart! Beat!  
 **（1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!）**
 
 　1, 2, 3, 4, 5  
@@ -100,7 +100,7 @@
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Brave and boiling heart　絆を示せ  
-　**（High!!）**  
+**（High!!）**  
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Over Boost!
@@ -108,6 +108,6 @@
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
 　My blood will burn on ah fight on!  
-　　　　　　　　 　 **(ah fight on!)**
+　　　　　　　　　　 　 **(ah fight on!)**
 
 ◆後奏（hi!…）
