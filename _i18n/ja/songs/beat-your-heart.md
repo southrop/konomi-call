@@ -1,4 +1,4 @@
-◆前奏（hi!…）
+◆前奏＜hi!…＞
 
 　When I was a kid, in a crazy dream  
 　I was gazin’ up to the Promised Land  
@@ -11,7 +11,8 @@
 
 　信じたい　この世界に生まれたことが  
 　幸せってこと  新時代へ続く  
-　扉を開けるんだ　**_wow wow oh oh oh._**
+　扉を開けるんだ  
+　**_wow wow oh oh oh._**
 
 　なぁ、わかってるんだろう？  
 　僕らはいつだって傷だらけで  
@@ -32,7 +33,7 @@
 
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
-　My blood will burn on **_ah fight on! _**
+　My blood will burn on **_ah fight on!_**
 
 　When a sky is dark , I forget to give  
 　But you came with me, I remembered it  
@@ -44,7 +45,8 @@
 　駆け出せ　遥か彼方へ　Rise up to the sky
 
 　感受性　繊細な胸に刻まれた拒絶 恐怖  
-　全否定の壁に諦めたくないよ　**_wow wow oh oh oh._**
+　全否定の壁に諦めたくないよ  
+ 　**_wow wow oh oh oh._**
 
 　そう、守らなくちゃ　君のためになら  
 　この身体で　乱れ舞うノーツぶつけて  
@@ -52,7 +54,8 @@
 　前に　もっと **＜hi!＞** もっと**＜hi!＞**  
 　強く　一度しかない人生を
 
-**_Nothing’s in my way Turn! On! Your! Heart! Beat!_**
+　**_Nothing’s in my way
+　Turn! On! Your! Heart! Beat!_**
 
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
@@ -65,9 +68,9 @@
 　This is a battle jungle! Buckle your belt  
 　Are you ready now?  
 　We’re gonna fight it　Do it! Do it! Do it!  
-　This blood will lead me　**Ah beat it!**
+　This blood will lead me　**_Ah beat it!_**
 
-◆間奏（hi!…）
+◆間奏＜hi!…＞
 
 　なあ、わかってるんだろう？  
 　僕らはいつだって挑戦をして  
@@ -88,6 +91,6 @@
 
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
-　My blood will burn on **_ah fight on! _**
+　My blood will burn on **_ah fight on!_**
 
-◆後奏（hi!…）
+◆後奏＜hi!…＞
