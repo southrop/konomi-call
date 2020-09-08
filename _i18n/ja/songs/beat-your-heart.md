@@ -2,8 +2,9 @@
 
 　When I was a kid, in a crazy dream  
 　I was gazin’ up to the Promised Land  
-　僕らのユメの形　ザワメキ出す　**_Heart! Beat!_**
-
+　僕らのユメの形　ザワメキ出す　**Heart! Beat!**  
+　　　　　　　　　　　　　　　**（Heart! Beat）**
+ 
 　Come on let’s go to that place  
 　I just can’t stop anymore  
 　飛びだせ　仄暗（ほのぐら）い空  
