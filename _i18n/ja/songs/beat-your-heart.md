@@ -72,7 +72,7 @@
 　アクセル　踏み抜き　Going!  
 　Bangin’, knockin’ heart  
 　魂よ沸（たぎ）れ (High!!)  
- 　　　　　　　　**（High!!）**  
+ 　　　　　　　　　**（High!!）**  
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　No stoppin!
@@ -81,7 +81,7 @@
 　Are you ready now?  
 　We’re gonna fight it　Do it! Do it! Do it!  
 　This blood will lead me　Ah beat it!  
-　　　　　　　　　　　　　**（Ah beat it!）**
+　　　　　　　　　　　　**（Ah beat it!）**
 
 ◆間奏＜hi!…＞
 
@@ -108,6 +108,6 @@
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
 　My blood will burn on ah fight on!  
-　　　　　　　　　　　**（ah fight on!）**
+　　　　　　　　　　**（ah fight on!）**
 
 ◆後奏＜hi!…＞
