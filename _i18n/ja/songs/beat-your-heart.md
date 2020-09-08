@@ -62,7 +62,7 @@
 　強く　一度しかない人生を
 
 　Nothing’s in my way  
-**（Nothing’s in my way）**
+**（Nothing’s in my way）**  
 　Turn! On! Your! Heart! Beat!  
 **（Turn! On! Your! Heart! Beat!）**
 
@@ -83,7 +83,8 @@
 ◆間奏（hi!…）
 
 　なあ、わかってるんだろう？  
-　僕らはいつだって挑戦をして　限界のルーフ振り切って  
+　僕らはいつだって挑戦をして  
+　限界のルーフ振り切って  
 　怖くないよ　いつでも傍に感じるから  
 　だから　もっと　もっと　もっと　もっと  
 　　　　　　**（hi!）　（hi!） （hi!） （hi!）**  
