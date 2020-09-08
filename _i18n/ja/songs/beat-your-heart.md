@@ -3,8 +3,7 @@
 　When I was a kid, in a crazy dream  
 　I was gazin’ up to the Promised Land  
 　僕らのユメの形　ザワメキ出す  
-　Heart! Beat!  
-**（Heart! Beat!）**
+　**Heart! Beat!**
  
 　Come on let’s go to that place  
 　I just can’t stop anymore  
@@ -13,19 +12,17 @@
 
 　信じたい　この世界に生まれたことが  
 　幸せってこと  新時代へ続く  
-　扉を開けるんだ  
-　wow wow oh oh oh.  
-**（wow wow oh oh oh.）**
+　扉を開けるんだ  .  
+　**wow wow oh oh oh.**
 
 　なぁ、わかってるんだろう？  
 　僕らはいつだって傷だらけで  
 　悲しみのルーツ断ち切って  
 　怖くないよ　いつでも傍に感じるから  
 　だから　もっと **＜hi!＞** もっと**＜hi!＞**  
-  　熱い　力が心満たしてく  
+　熱い　力が心満たしてく  
 
-　1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!  
-**（1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!）**  
+　**1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!**  
 
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
@@ -37,15 +34,12 @@
 
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
-　My blood will burn on ah fight on!  
-　　　　　　　　　　**（ah fight on!）**
+　My blood will burn on **ah fight on!**  
 
 　When a sky is dark , I forget to give  
 　But you came with me, I remembered it  
 　僕らのアイの形　重なり出す  
-　Heart! Beat!  
-**（Heart! Beat!）**
-
+　**Heart! Beat!**
 
 　When your day is gray, I will be a flame  
 　Sparkle up, gonna start again  
@@ -53,8 +47,7 @@
 
 　感受性　繊細な胸に刻まれた拒絶 恐怖  
 　全否定の壁に諦めたくないよ  
-　wow wow oh oh oh.  
-**（wow wow oh oh oh.）**
+　**wow wow oh oh oh.**
 
 　そう、守らなくちゃ　君のためになら  
 　この身体で　乱れ舞うノーツぶつけて  
@@ -62,10 +55,8 @@
 　前に　もっと **＜hi!＞** もっと**＜hi!＞**  
 　強く　一度しかない人生を
 
-　Nothing’s in my way  
-**（Nothing’s in my way）**  
-　Turn! On! Your! Heart! Beat!  
-**（Turn! On! Your! Heart! Beat!）**
+　**Nothing’s in my way**  
+　**Turn! On! Your! Heart! Beat!**  
 
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
@@ -78,8 +69,7 @@
 　This is a battle jungle! Buckle your belt  
 　Are you ready now?  
 　We’re gonna fight it　Do it! Do it! Do it!  
-　This blood will lead me　Ah beat it!  
-　　　　　　　　　　 　**（Ah beat it!）**
+　This blood will lead me　**Ah beat it!**  
 
 ◆間奏＜hi!…＞
 
@@ -91,8 +81,7 @@
 　もっと **＜hi!＞** もっと**＜hi!＞**熱い力が  
 　心満たしてく
  
-　1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!  
-**（1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!）**  
+　**1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!**  
 
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
@@ -104,7 +93,6 @@
 
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
-　My blood will burn on ah fight on!  
-　　　　　　　　　　**（ah fight on!）**
-
+　My blood will burn on **ah fight on!**  
+ 
 ◆後奏＜hi!…＞
