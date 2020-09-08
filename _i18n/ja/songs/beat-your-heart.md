@@ -31,7 +31,7 @@
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
 　絆を示せ　（High!!）  
-　　　　　**（High!!）**  
+　　　　　　**（High!!）**  
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Over Boost!
@@ -72,7 +72,7 @@
 　アクセル　踏み抜き　Going!  
 　Bangin’, knockin’ heart  
 　魂よ沸（たぎ）れ (High!!)  
- 　　　　　　　**（High!!）**  
+ 　　　　　　　　**（High!!）**  
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　No stoppin!
@@ -100,7 +100,7 @@
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
 　絆を示せ　（High!!）  
-　　　　　**（High!!）**  
+　　　　　　**（High!!）**  
 　Blaze（ブレず）に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Over Boost!
