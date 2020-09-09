@@ -52,7 +52,7 @@
 　君は　「だってさ“走りたい”から」  
 　トマレナイ
 
-◆間奏（hi!…）
+◆間奏＜hi!…＞
 
 **（Tell me, Tell me, What you wanna do）**  
 　ここから  
