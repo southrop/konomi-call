@@ -5,7 +5,7 @@ description: songs.skyblueoasis.description
 lyricist: songs.skyblueoasis.lyricist
 comparranger: songs.skyblueoasis.comparranger
 image: assets/images/14.jpg
-order: 9
+order: 10
 ---
 
 {% tf songs/sky-blue-oasis.md %}

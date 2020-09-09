@@ -6,7 +6,7 @@ lyricist: songs.abeautifulmistake.lyricist
 composer: songs.abeautifulmistake.composer
 arranger: songs.abeautifulmistake.arranger
 image: assets/images/18.jpg
-order: 13
+order: 14
 ---
 
 {% tf songs/a-beautiful-mistake.md %}

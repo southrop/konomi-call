@@ -5,7 +5,7 @@ description: songs.daysofdash.description
 lyricist: songs.daysofdash.lyricist
 comparranger: songs.daysofdash.comparranger
 image: assets/images/02.jpg
-order: 3
+order: 1
 colors:
   - - pink
 ---

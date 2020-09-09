@@ -5,7 +5,7 @@ description: songs.loveismyrail.description
 lyricist: songs.loveismyrail.lyricist
 comparranger: songs.loveismyrail.comparranger
 image: assets/images/11.jpg
-order: 14
+order: 8
 colors:
   - - '#59d8d8cf'
   - - orange

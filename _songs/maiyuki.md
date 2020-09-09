@@ -5,7 +5,7 @@ description: songs.maiyuki.description
 lyricomposer: songs.maiyuki.lyricomposer
 arranger: songs.maiyuki.arranger
 image: assets/images/19.jpg
-order: 7
+order: 15
 ---
 
 {% tf songs/maiyuki.md %}

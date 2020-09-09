@@ -6,7 +6,7 @@ lyricist: songs.thisgame.lyricist
 composer: songs.thisgame.composer
 arranger: songs.thisgame.arranger
 image: assets/images/06.jpg
-order: 12
+order: 3
 colors:
   - - '#ddd'
     - white

@@ -6,7 +6,7 @@ lyricist: songs.beatyourheart.lyricist
 composer: songs.beatyourheart.composer
 arranger: songs.beatyourheart.arranger
 image: assets/images/09.jpg
-order: 7
+order: 6
 colors:
   - - red
 ---

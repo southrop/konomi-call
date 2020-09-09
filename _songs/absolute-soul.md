@@ -6,7 +6,7 @@ lyricist: songs.absolutesoul.lyricist
 composer: songs.absolutesoul.composer
 arranger: songs.absolutesoul.arranger
 image: assets/images/08.jpg
-order: 11
+order: 4
 colors:
   - - red
 ---
