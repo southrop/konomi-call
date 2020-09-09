@@ -6,7 +6,10 @@ url: "https://konomi.platinumdis.co" # the base hostname & protocol for your sit
 font-awesome-icon-logo: fa-music
 
 # homepage tiles
-tiles-count: 16
+tiles_count: 16
+
+# show cover images
+show_covers: false
 
 # social settings
 twitter_url: https://twitter.com/konomin_call
