@@ -30,7 +30,7 @@
  　**Yeah!**
 
 This is a song of hope,for those who feel loneliness.  
-What can they do for the future,
+What can they do for the future,  
 those who never knew this sorrow.  
 CHECK IT. BREAK DOWN
 
@@ -50,12 +50,11 @@ CHECK IT. BREAK DOWN
 　健気なの察しろや
 
 　夢のない時代よ　目を覚まして  
-　私がモテる未来まで　この世界を赦さない  
 　**私がモテる未来まで**　この世界を赦さない    
 　**モテた者は遠慮せい これ以上は遠慮せい**  
 　私はここにいるよ  
 　ホレろ **（ホレろ）**　ホレろ **（ホレろ）**  
 　モテろ **（モテろ）**　モテろ **（モテろ）**  
-全てが変わる未来で会おう  
-**ん～1 2 3 4!**  
-私がモテないのはどう考えてもお前らが悪い！
+　全てが変わる未来で会おう  
+　**ん～1 2 3 4!**  
+　私がモテないのはどう考えてもお前らが悪い！
