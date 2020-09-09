@@ -4,8 +4,7 @@
 　平均演じる　誕生から始まった地獄
 
 　遊び半分で神が導いた　盤上の世界  
-　no no no game no Life  
-**（no no no game no Life）**  
+　**no no no game no Life**  
 　ぬるい平穏を　ばっさり切り捨てて  
 　栄光への階段に存在刻むんだ
 
@@ -27,8 +26,7 @@
 
 　上辺の個性で安心と引き換えに  
 　プライド殺すな  
-　no no no sence of life  
-**（no no no sence of life）**  
+　**no no no sence of life**  
 　野蛮な雑音を　きっぱり蹴飛ばして  
 　誰より純粋な声上げるんだ
 
