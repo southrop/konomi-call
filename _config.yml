@@ -3,7 +3,7 @@ title: 鈴木このみコールガイド
 subtitle: 鈴木このみの楽曲のコールをまとめるサイト
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://konomi.platinumdis.co" # the base hostname & protocol for your site
-font-awesome-icon-logo: fa-music
+fa_icon: fa-music
 
 # homepage tiles
 tiles_count: 16
