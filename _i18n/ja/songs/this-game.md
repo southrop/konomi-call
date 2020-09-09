@@ -12,7 +12,7 @@
 　何もかも **＜fufuffu!＞**  
 　計算通り **＜fufuffu!＞**  
 　変えてやる  
-　染まらない空白で **＜fufuffu!＞** 
+　染まらない空白で **＜fufuffu!＞**
 
 　We are maverick　救済なんていらない  
 　どんな理不尽襲おうとも  

@@ -4,7 +4,7 @@
 　I was gazin’ up to the Promised Land  
 　僕らのユメの形　ザワメキ出す  
 　**Heart! Beat!**
- 
+
 　Come on let’s go to that place  
 　I just can’t stop anymore  
 　飛びだせ　仄暗（ほのぐら）い空  
@@ -80,7 +80,7 @@
 　だから　もっと **＜hi!＞** もっと**＜hi!＞**  
 　もっと **＜hi!＞** もっと**＜hi!＞**熱い力が  
 　心満たしてく
- 
+
 　**1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!**  
 
 　Blaze（ブレず）に生きていくんだ  
@@ -94,5 +94,5 @@
 　This is a real deal! No more liars  
 　Ignition’s ON, my heart is on Fire Fire Fire  
 　My blood will burn on **ah fight on!**  
- 
+
 ◆後奏＜hi!…＞

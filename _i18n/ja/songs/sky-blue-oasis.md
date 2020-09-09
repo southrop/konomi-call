@@ -1,5 +1,5 @@
 　いつだって　Believe in myself  
-**（いつだって　Believe in myself）**   
+**（いつだって　Believe in myself）**  
 　I’ll never say never
 
 　走れ、少年！　夏空の下  
