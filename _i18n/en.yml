@@ -13,11 +13,12 @@ pages:
     title: Home
   about:
     title: About
+  colors:
+    title: Penlight Colors
   songs:
     title: All Songs
   test:
     title: Test
-    description: Test Description
 
 songs:
   global:

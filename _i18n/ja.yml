@@ -15,11 +15,12 @@ pages:
     title: トップ
   about:
     title: このサイトについて
+  colors:
+    title: ペンライト色
   songs:
     title: 楽曲一覧
   test:
     title: テスト
-    description: テスト詳細
 
 songs:
   global:
