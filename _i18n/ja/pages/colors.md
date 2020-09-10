@@ -3,8 +3,8 @@
 赤色…………鈴木このみカラー
 
 青色…………Fly to the stars、Tears BREAKER、Open Heart、竜星鎮魂歌  
-　　　　Born to be、Love is MY RAIL（途中からオレンジ）  
-　　　　Don't stop me now、miss blue、蒼の彼方
+　　　　　Born to be、Love is MY RAIL（途中からオレンジ）  
+　　　　　Don't stop me now、miss blue、蒼の彼方
     
 水色…………Blow out  
 
