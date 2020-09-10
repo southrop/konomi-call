@@ -15,6 +15,7 @@
 橙色・・・・世界は疵を抱きしめる、Delighting  
 
 白色・・・・This game、オラシオン、Redo、White clover  
+　　　　　　舞い降りてきた雪
 
 タオル・・・Sky Blue OASIS  
 
