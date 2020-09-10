@@ -203,6 +203,17 @@
 				width: calc(#{(100% / 2)} - #{$gutter * 1});
 				margin: $gutter 0 0 $gutter;
 
+				a {
+					h2 {
+						letter-spacing: 0;
+					}
+
+					.content {
+						font-size: small;
+						line-height: 1.2em;
+					}
+				}
+
 				&:hover {
 					> .image {
 						@include vendor('transform', 'scale(1.0)');
@@ -214,11 +225,23 @@
 		@include breakpoint(xsmall) {
 			$gutter: _size(gutter) * 0.5;
 
-			margin: 0;
+			margin: ($gutter * -1) 0 0 ($gutter * -1);
 
 			article {
-				width: 100%;
-				margin: $gutter 0 0 0;
+				width: calc(#{(100% / 2)} - #{$gutter * 1});
+				margin: $gutter 0 0 $gutter;
+
+				a {
+					h2 {
+						font-size: 0.9em;
+						letter-spacing: 0;
+					}
+
+					.content {
+						font-size: x-small;
+						line-height: 1.2em;
+					}
+				}
 			}
 		}
 	}

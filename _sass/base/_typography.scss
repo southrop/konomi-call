@@ -78,7 +78,7 @@
 		line-height: 1.5;
 		margin: 0 0 (_size(element-margin) * 1) 0;
 		// text-transform: uppercase;
-		letter-spacing: _font(letter-spacing);
+		letter-spacing: 0.1em;
 
 		a {
 			color: inherit;
