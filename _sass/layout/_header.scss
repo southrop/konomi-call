@@ -7,14 +7,14 @@
 /* Header */
 
 	#header {
-		@include padding(5em, 0, (3em, 0, -5em, 0));
+		@include padding(0, 0, (3em, 0, -5em, 0));
 
 		.logo {
 			display: block;
 			border-bottom: 0;
 			color: inherit;
 			font-weight: _font(weight-bold);
-			letter-spacing: _font(letter-spacing);
+			letter-spacing: 0.1em;
 			margin: 0 0 (_size(element-margin) * 1.25) 0;
 			text-decoration: none;
 			text-transform: uppercase;
@@ -116,7 +116,7 @@
 		}
 
 		@include breakpoint(small) {
-			@include padding(3em, 0, (1em, 0, -3em, 0));
+			@include padding(4em, 0, (1em, 0, -3em, 0));
 
 			nav {
 				right: 0.5em;
