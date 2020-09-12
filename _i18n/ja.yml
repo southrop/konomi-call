@@ -19,8 +19,6 @@ pages:
     title: 楽曲イメージカラー
   songs:
     title: 楽曲一覧
-  test:
-    title: テスト
 
 songs:
   global:

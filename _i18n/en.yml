@@ -17,8 +17,6 @@ pages:
     title: Song Image Colors
   songs:
     title: All Songs
-  test:
-    title: Test
 
 songs:
   global:
