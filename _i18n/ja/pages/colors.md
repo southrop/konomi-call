@@ -39,5 +39,5 @@
 ☞Redo  
 ☞White clover  
 
-## タオル  
+## タオル推奨曲  
 ☞Sky Blue OASIS  
