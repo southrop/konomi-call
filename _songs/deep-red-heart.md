@@ -6,6 +6,8 @@ lyricist: songs.deepredheart.lyricist
 comparranger: songs.deepredheart.comparranger
 image: assets/images/08-1.jpg
 order: 5
+colors:
+  - - red
 ---
 
 {% tf songs/deep-red-heart.md %}
