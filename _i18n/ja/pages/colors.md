@@ -5,10 +5,10 @@
 ・今回のライブに合わせて、**シングル曲とカップリング曲に限定しています。**
 
 
-～赤色～  
+## 赤色 
 ☞鈴木このみカラー
 
-～青色～  
+## 青色  
 ☞Fly to the stars  
 ☞Tears BREAKER  
 ☞Open Heart  
@@ -19,25 +19,25 @@
 ☞miss blue  
 ☞蒼の彼方
     
-～水色～  
+## 水色  
 ☞Blow out  
 
-～黄色～  
+## 黄色  
 ☞join us  
 
-～ピンク色～  
+## ピンク色  
 ☞DAYS of DASH  
 ☞夢の続き  
 
-～オレンジ色～  
+## オレンジ色  
 ☞世界は疵を抱きしめる  
 ☞Delighting  
 
-～白色～  
+## 白色  
 ☞This game  
 ☞オラシオン  
 ☞Redo  
 ☞White clover  
 
-～タオル～  
+## タオル  
 ☞Sky Blue OASIS  
