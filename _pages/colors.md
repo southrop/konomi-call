@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pages.colors.title
-icon: fa-palette
+icon: fa-marker
 ---
 
 {% tf pages/colors.md %}
