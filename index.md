@@ -8,7 +8,7 @@ home: true
 
 <header>
 <h1>{% t titles.title %}</h1>
-{% if site.lang == "ja" %}<h2>{{ site.translations["en"].titles.title }}</h2>{% endif %}
+{% if titles.subtitle %}<h2>{% t titles.subtitle %}</h2>{% endif %}
 
 {% tf pages/index.md %}
 </header>

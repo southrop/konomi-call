@@ -36,7 +36,7 @@ include: [".nojekyll", "CNAME"]
 exclude: ["README.md", "phantom_jekyll_theme.gemspec"]
 
 languages: ["ja", "en"]
-exclude_from_localizations: ["assets", ".nojekyll"]
+exclude_from_localizations: ["assets", ".nojekyll", "CNAME"]
 
 # defaults:
 #   -
