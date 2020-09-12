@@ -13,7 +13,19 @@
 	}
 
 	header {
-		p {
+		h1 {
+			margin: 0;
+		}
+
+		h1 + p {
+			margin-top: 0.5em;
+		}
+
+		h2 {
+			margin: 0 0 (_size(element-margin) * 1) 0;
+		}
+
+		h2 + p {
 			margin-top: _size(element-margin) * -0.5;
 		}
 
