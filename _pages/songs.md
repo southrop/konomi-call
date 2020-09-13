@@ -2,6 +2,7 @@
 layout: page
 title: pages.songs.title
 icon: fa-list-music
+order: 0
 ---
 
 {% assign songs = site.songs | sort %}

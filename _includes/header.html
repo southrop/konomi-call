@@ -34,7 +34,8 @@
 	<h2>{% t menu.menu %}</h2>
 	<ul>
 		<li><a href="{{ site.baseurl }}/"><i class="icon fas fa-home" aria-hidden="true"></i>  {% t pages.home.title %}</a></li>
-		{% for page in site.pages %}
+		{% assign pages = site.pages | sort: 'order' %}
+		{% for page in pages %}
 		<li><a href="{{ site.baseurl }}{{ page.url }}"><i class="icon fas {% if page.icon %}{{ page.icon }}{% else %}fa-file-alt{% endif %}" aria-hidden="true"></i>{% t page.title %}</a></li>
 		{% endfor %}
 	</ul>
