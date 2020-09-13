@@ -46,7 +46,7 @@ CHECK IT. BREAK DOWN*
 　**騒ぐ者は遠慮せい　発言にも気をつけい**  
 　哀しい目に気づいて
 
-◆間奏＜hi…!＞
+◆間奏＜hi!…＞
 
 　I’m on my way to finding my way.  
 　健気なの察しろや
