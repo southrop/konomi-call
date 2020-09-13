@@ -1,7 +1,7 @@
 uso kusaku kikazatta moji no raretsu  
 iyake ga sashite nando mo kaite wa keshita
 
-massara na nooto itsunomanika  
+massara na note itsunomanika  
 shikou sakugo de kuroku nijindeita kedo
 
 mou sukoshi de ato sukoshi de  
@@ -24,7 +24,7 @@ mou ippo ato ippo chikazukeba tooku naru
 demo wakuwaku shitai kotaeawase wa iranai yo
 
 iza sesuji nobashite mistake  
-pinchi wo chance ni shite  
+pinch wo chance ni shite  
 machigaeta bun dake dondon seikai ni chikazuku yo  
 isshou de hitotsu dake kenmei ni nareru koto  
 mitsukerareta boku no yuiitsu muni no kotae da  
@@ -42,7 +42,7 @@ zenshin de idonde zenrei de tsukande
 boku ga erandekita kizudarake no kotae da
 
 iza sesuji nobashite mistake  
-pinchi wo chanto tanoshinde  
+pinch wo chanto tanoshinde  
 shippai mo koukai mo seikai datta to waraeru you ni  
 isshou de hitotsu dake kenmei ni nareru koto  
 mitsukerareta boku no yuiitsu muni no kotae da

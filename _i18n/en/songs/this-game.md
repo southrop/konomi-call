@@ -6,7 +6,7 @@ heikin enjiru tanjou kara hajimatta jigoku
 asobi hanbun de kami ga michibiita banjou no sekai  
 no no no game no Life  
 **（no no no game no Life）**  
-nurui heion wo passari kiri sutete  
+nurui heion wo bassari kiri sutete  
 eikou e no kaidan ni sonzai kizamunda
 
 me ni utsuru no wa kanzen shouri no unmei  
@@ -28,7 +28,7 @@ kujikenu kagiri soko ni haiboku wa arienai
 uwabe no kosei de anshin to hikikae ni pride korosu na  
 no no no sence of life  
 **（no no no sence of life）**  
-yaban na zatsuon wo kippari kettobashite  
+yaban na zatsuon wo kippari ketobashite  
 dare yori junsui na koe agerun da
 
 tatakau koto wa kitto machigai janai  
