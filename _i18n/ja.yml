@@ -7,7 +7,8 @@ menu:
   menu: メニュー
 
 titles:
-  title: 鈴木このみオンラインコールガイド
+  site: 鈴木このみオンラインコールガイド
+  title: このサイトについて
   subtitle: Konomi Suzuki Online Call Guide
   description: 鈴木このみの楽曲のコールをまとめるサイト
 
@@ -15,7 +16,7 @@ pages:
   home:
     title: トップ
   about:
-    title: このサイトについて
+    title: 著作権について
   colors:
     title: 楽曲イメージカラー
   songs:

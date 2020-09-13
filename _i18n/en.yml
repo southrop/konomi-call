@@ -12,7 +12,7 @@ pages:
   home:
     title: Home
   about:
-    title: About
+    title: Legal
   colors:
     title: Song Image Colors
   songs:
@@ -33,7 +33,7 @@ songs:
     everything: ANCHOR
   watamote:
     title: Watashi ga Motenai no wa dou Kangaetemo Omaera ga Warui!
-    description: 4th Single<br>TV Anime "No Matter How I Look at It, It’s You Guys' Fault I’m Not Popular!" Opening Theme
+    description: 4th Single<br>TV Anime "No Matter How I Look at It, It’s You Guys' Fault I'm Not Popular!" Opening Theme
     everything: Kiba of Akiba
   daysofdash:
     title: DAYS of DASH
