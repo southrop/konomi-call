@@ -1,5 +1,5 @@
 <head>
-	<title>{% t page.title %}{% unless page.home %} | {% t titles.title %}{% endunless %}</title>
+	<title>{% if page.home %}{% t titles.site %}{% else %}{% t page.title %} | {% t titles.site %}{% endif %}</title>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description" content="{% t titles.description %}"/>
