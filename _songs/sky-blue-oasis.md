@@ -6,10 +6,8 @@ lyricist: songs.skyblueoasis.lyricist
 comparranger: songs.skyblueoasis.comparranger
 image: assets/images/14.jpg
 order: 10
-colors: #dddddd
-  - icon:
-    - \f7c1
-    - \10f7c1
+colors: blue
+
 ---
 
 {% tf songs/sky-blue-oasis.md %}
