@@ -7,11 +7,15 @@
 
 	{% include header.html %}
 
-	{% if page.colors %}<style>{% for color in page.colors %}
-{% if forloop.index == 1 %}div.song>div.color{{ forloop.index }}>p{ border-color: {{ color[0] }}; }
-{% if color[1] %}div.song>div.color{{ forloop.index }}>p:before { border: 3px solid {{ color[1] }}; }{% endif %}
-{% else %}div.song>div.lyrics>p.color{{ forloop.index }}{ border-color:{{ color[0] }}; }
-div.song>div.lyrics>p.color{{ forloop.index }}:before{ border: {% if color[1] %}3px solid {{ color[1] }}{% else %}none{% endif %}; }{% endif %}{% endfor %}</style>{% endif %}
+	{% if page.colors %}<style>
+	{% for color in page.colors %}
+	{% if forloop.index == 1 %}
+	div.song > div.color{{ forloop.index }} > p{ border-color: {{ color }}; }
+	div.song > div.colors > i.fad { --fa-secondary-color: {{ color }}; }
+	{% else %}
+	div.song > div.lyrics > p.color{{ forloop.index }} { border-color:{{ color }}; }
+	{% endif %}
+	{% endfor %}</style>{% endif %}
 	<div class="song">
 	{% if site.show_covers and page.image %}
 	<span class="image">

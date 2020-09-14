@@ -8,7 +8,7 @@ arranger: songs.beatyourheart.arranger
 image: assets/images/09.jpg
 order: 6
 colors:
-  - - red
+  - red
 ---
 
 {% tf songs/beat-your-heart.md %}

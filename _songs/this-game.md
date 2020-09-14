@@ -8,8 +8,7 @@ arranger: songs.thisgame.arranger
 image: assets/images/06.jpg
 order: 3
 colors:
-  - - '#ddd'
-    - white
+  - '#dddddd'
 ---
 
 {% tf songs/this-game.md %}

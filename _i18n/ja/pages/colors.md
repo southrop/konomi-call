@@ -1,43 +1,58 @@
-このみんが過去にブログやイベントで発信したことのある楽曲のイメージカラーをまとめています。    
+このみんが過去にブログやイベントで発信したことのある楽曲のイメージカラーをまとめています。  
 
 **注意**  
 ペンライトやサイリウムなどを振らないといけない！あるいは色を統一させないといけない！というものでは**決してありません。**  
 また、今回のライブに合わせて**シングル曲とカップリング曲に限定しています。**
 
+## 赤色
 
-## 赤色 
-☞鈴木このみカラー
+* 鈴木このみカラー
+{: class="cb color1"}
 
-## 青色  
-☞Fly to the stars  
-☞Tears BREAKER  
-☞Open Heart  
-☞竜星鎮魂歌  
-☞Born to be  
-☞Love is MY RAIL（途中からオレンジ）  
-☞Don't stop me now  
-☞miss blue  
-☞蒼の彼方
-    
+## 青色
+
+* Fly to the stars  
+* Tears BREAKER  
+* Open Heart  
+* 竜星鎮魂歌  
+* Born to be  
+* Love is MY RAIL（途中からオレンジ）  
+* Don't stop me now  
+* miss blue  
+* 蒼の彼方
+{: class="cb color2"}
+
 ## 水色  
-☞Blow out  
 
-## 黄色  
-☞join us  
+* Blow out
+{: class="cb color3"}
 
-## ピンク色  
-☞DAYS of DASH  
-☞夢の続き  
+## 黄色
 
-## オレンジ色  
-☞世界は疵を抱きしめる  
-☞Delighting  
+* join us
+{: class="cb color4"}
 
-## 白色  
-☞This game  
-☞オラシオン  
-☞Redo  
-☞White clover  
+## ピンク色
 
-## タオル推奨曲  
-☞Sky Blue OASIS  
+* DAYS of DASH  
+* 夢の続き
+{: class="cb color5"}
+
+## オレンジ色
+
+* 世界は疵を抱きしめる  
+* Delighting
+{: class="cb color6"}
+
+## 白色
+
+* This game  
+* オラシオン  
+* Redo  
+* White clover  
+{: class="cb color7"}
+
+## タオル推奨曲
+
+* Sky Blue OASIS  
+{: class="cb color8"}

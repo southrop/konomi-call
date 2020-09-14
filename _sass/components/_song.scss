@@ -79,14 +79,6 @@
 				position: relative;
 			}
 
-			p:before {
-				content: "";
-				position: absolute;
-				top: 2px;
-				bottom: 2px;
-				left: -8px;
-			}
-
 			p:first-of-type {
 				border-top-left-radius: 4px;
 			}
@@ -98,16 +90,6 @@
 
 			p:last-of-type {
 				border-bottom-left-radius: 4px;
-			}
-
-			p:last-of-type:not(:first-of-type):before {
-				top: 0px;
-				border-bottom-left-radius: 4px;
-			}
-
-			p:not(:first-of-type):not(:last-of-type):before {
-				top: 0px;
-				bottom: 0px;
 			}
 		}
 	}

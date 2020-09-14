@@ -8,7 +8,7 @@ arranger: songs.absolutesoul.arranger
 image: assets/images/08.jpg
 order: 4
 colors:
-  - - red
+  - red
 ---
 
 {% tf songs/absolute-soul.md %}

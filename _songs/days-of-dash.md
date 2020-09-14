@@ -7,7 +7,7 @@ comparranger: songs.daysofdash.comparranger
 image: assets/images/02.jpg
 order: 1
 colors:
-  - - pink
+  - pink
 ---
 
 {% tf songs/days-of-dash.md %}

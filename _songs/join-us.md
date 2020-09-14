@@ -7,7 +7,7 @@ arranger: songs.joinus.arranger
 image: assets/images/13.jpg
 order: 9
 colors:
-  - - yellow
+  - yellow
 ---
 
 {% tf songs/join-us.md %}

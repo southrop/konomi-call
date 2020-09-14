@@ -7,8 +7,8 @@ comparranger: songs.loveismyrail.comparranger
 image: assets/images/11.jpg
 order: 8
 colors:
-  - - '#59d8d8cf'
-  - - orange
+  - '#59d8d8cf'
+  - orange
 ---
 
 {% tf songs/love-is-my-rail.md %}

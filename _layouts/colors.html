@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+	{% include header.html %}
+
+	<h1>{% t page.title %}</h1>
+
+	{% if page.colors %}<style>
+	{% for color in page.colors %}
+	{% if color.color %}
+	div.colorbox > ul.color{{ forloop.index }} { border-color: {{ color.color }}; }
+	div.colorbox > ul.color{{ forloop.index }}:after { color: {{ color.color }} }
+	{% endif %}
+	{% if color.icon %}
+	div.colorbox > ul.color{{ forloop.index }}:before { content: '{{ color.icon[0] }}'; }
+	div.colorbox > ul.color{{ forloop.index }}:after { content: '{{ color.icon[1] }}'; }
+	{% endif %}
+	{% endfor %}</style>{% endif %}
+	<div class="colorbox">
+		{{ content }}
+	</div>
+
+	{% include footer.html %}
+
+</body>
+
+</html>

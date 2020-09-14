@@ -7,8 +7,7 @@ comparranger: songs.redo.comparranger
 image: assets/images/10.jpg
 order: 7
 colors:
-  - - '#ddd'
-    - white
+  - '#dddddd'
 ---
 
 {% tf songs/redo.md %}

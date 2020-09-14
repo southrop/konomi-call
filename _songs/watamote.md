@@ -6,7 +6,7 @@ everything: songs.watamote.everything
 image: assets/images/04.jpg
 order: 2
 colors:
-  - - red
+  - red
 ---
 
 {% tf songs/watamote.md %}

@@ -13,6 +13,11 @@
 		<img src="{{ page.featured-image }}" alt="">
 	</span>
 	{% endif %}
+	{% if page.colors %}<style>{% for color in page.colors %}
+	{% if forloop.index == 1 %}div.color{{ forloop.index }}>p{ border-color: {{ color[0] }}; }
+	{% if color[1] %}div.color{{ forloop.index }}>p:before { border: 3px solid {{ color[1] }}; }{% endif %}
+	{% else %}div.inner>p.color{{ forloop.index }}{ border-color:{{ color[0] }}; }
+	div.inner>p.color{{ forloop.index }}:before{ border: {% if color[1] %}3px solid {{ color[1] }}{% else %}none{% endif %}; }{% endif %}{% endfor %}</style>{% endif %}
 	{{ content }}
 	{% include footer.html %}
 
