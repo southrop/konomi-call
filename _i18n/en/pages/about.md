@@ -1,6 +1,6 @@
 ## Copyright
 
-All CD jackets and lyrics are copyright of their respective creators, record labels, and artists.
+All {% if site.show_covers %}CD jackets and {% endif %}lyrics are copyright of their respective creators, record labels, and artists.
 
 JASRAC Permit No. J200928595  
 ![]({{ "assets/images/jasrac.gif" | relative_url }})
