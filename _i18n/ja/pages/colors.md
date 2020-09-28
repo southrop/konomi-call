@@ -11,48 +11,48 @@
 
 ## 青色
 
-* Fly to the stars  
-* Tears BREAKER  
-* Open Heart  
-* 竜星鎮魂歌  
-* Born to be  
-* Love is MY RAIL（途中からオレンジ）  
-* Don't stop me now  
-* miss blue  
+* Fly to the stars
+* Tears BREAKER
+* Open Heart
+* 竜星鎮魂歌
+* Born to be
+* [Love is MY RAIL](/love-is-my-rail)（途中からオレンジ）
+* Don't stop me now
+* miss blue
 * 蒼の彼方
 {: class="cb color2"}
 
-## 水色  
+## 水色
 
 * Blow out
 {: class="cb color3"}
 
 ## 黄色
 
-* join us
+* [join us](/join-us)
 {: class="cb color4"}
 
 ## ピンク色
 
-* DAYS of DASH  
+* [DAYS of DASH](/days-of-dash)
 * 夢の続き
 {: class="cb color5"}
 
 ## オレンジ色
 
-* 世界は疵を抱きしめる  
+* 世界は疵を抱きしめる
 * Delighting
 {: class="cb color6"}
 
 ## 白色
 
-* This game  
-* オラシオン  
-* Redo  
-* White clover  
+* [This game](/this-game)
+* オラシオン
+* [Redo](/redo)
+* White clover
 {: class="cb color7"}
 
 ## タオル推奨曲
 
-* Sky Blue OASIS  
+* [Sky Blue OASIS](/sky-blue-oasis)
 {: class="cb color8"}

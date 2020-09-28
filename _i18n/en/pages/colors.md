@@ -17,7 +17,7 @@ To match the theme of the concert, only **singles and their respective B-sides**
 * Open Heart
 * Ryusei Requiem
 * Born to be
-* Love is MY RAIL (switch to Orange partway through)
+* [Love is MY RAIL](/love-is-my-rail) (switch to Orange partway through)
 * Don't stop me now
 * miss blue
 * Ao no Kanata
@@ -30,12 +30,12 @@ To match the theme of the concert, only **singles and their respective B-sides**
 
 ## Yellow
 
-* join us
+* [join us](/join-us)
 {: class="cb color4"}
 
 ## Pink
 
-* DAYS of DASH
+* [DAYS of DASH](/days-of-dash)
 * Yume no Tsuzuki
 {: class="cb color5"}
 
@@ -47,13 +47,13 @@ To match the theme of the concert, only **singles and their respective B-sides**
 
 ## White
 
-* This game
+* [This game](/this-game)
 * Oracion
-* Redo
+* [Redo](/redo)
 * White clover
 {: class="cb color7"}
 
 ## Towel
 
-* Sky Blue OASIS
+* [Sky Blue OASIS](/sky-blue-oasis)
 {: class="cb color8"}
