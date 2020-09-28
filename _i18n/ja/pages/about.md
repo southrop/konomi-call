@@ -1,7 +1,7 @@
 各ページに掲載された{% if site.show_covers %}ジャケット画像、{% endif %}歌詞に関する著作権は、各レコード会社、アーティストなどに帰属します。
 
-JASRAC許諾第J200928595号  
-![]({{ "assets/images/jasrac.gif" | relative_url }})
+![]({{ "assets/images/jasrac.gif" | relative_url }})  
+JASRAC許諾第J200928595号
 
 ## 制作スタッフ
 
