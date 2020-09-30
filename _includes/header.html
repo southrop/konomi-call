@@ -14,13 +14,15 @@
 		</a>
 		<nav>
 			<ul>
-				<li><a href="#lang"><i class="fas fa-language" aria-hidden="true"></i></a></li>
+				{% if site.enable_i18n %}<li><a href="#lang"><i class="fas fa-language" aria-hidden="true"></i></a></li>{% endif %}
 				<li><a href="#menu"><i class="fas fa-bars" aria-hidden="true"></i></a></li>
 			</ul>
 		</nav>
 	</div>
 </header>
 
+<!-- Language Selector -->
+{% if site.enable_i18n %]}
 <nav id="lang" class="menu">
 	<h2>{% t global.language %}</h2>
 	<ul>
@@ -28,6 +30,7 @@
 		<li><a href="{{ site.baseurl_root }}/en{{ page.url }}">{% t global.english %}</a></li>
 	</ul>
 </nav>
+{% endif %}
 
 <!-- Menu -->
 <nav id="menu" class="menu">

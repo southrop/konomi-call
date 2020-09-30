@@ -29,7 +29,7 @@ machigaeta bun dake dondon seikai ni chikazuku yo
 isshou de hitotsu dake kenmei ni nareru koto  
 mitsukerareta boku no yuiitsu muni no kotae da  
 
-◆ Interlude（hi!…）
+◆ Interlude <hi!…>
 
 mou sukoshi de ato sukoshi de  
 tadoritsuke sou na ki ga surun da  
