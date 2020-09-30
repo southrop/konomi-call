@@ -24,7 +24,7 @@
 
 　**1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!**  
 
-　Blaze<ruby><rp>（</rp><rt>ブレず</rt><rp>）</rp></ruby>に生きていくんだ  
+　<ruby>Blaze<rp>（</rp><rt>ブレず</rt><rp>）</rp></ruby>に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
 　絆を示せ **（High!!）**  
@@ -83,7 +83,7 @@
 
 　**1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!**  
 
-　Blaze（ブレず）に生きていくんだ  
+　<ruby>Blaze<rp>（</rp><rt>ブレず</rt><rp>）</rp></ruby>に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
 　絆を示せ **（High!!）**  
