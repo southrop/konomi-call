@@ -1,4 +1,4 @@
-name: Build and deploy site to Github Pages
+name: Deploy to Github Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  github-pages:
+  deploy:
     runs-on: ubuntu-16.04
     steps:
       - uses: actions/checkout@v2
@@ -19,3 +19,14 @@ jobs:
       - uses: helaili/jekyll-action@2.0.4
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+  pdf:
+    needs: deploy
+    runs-on: ubuntu-16.04
+    steps:
+      - uses: actions/checkout@v2
+        with: gh-pages
+      - uses: fifsky/html-to-pdf-action@master
+        with:
+          htmlFile: ./index.html
+          outputFile: ./index.pdf
+          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
