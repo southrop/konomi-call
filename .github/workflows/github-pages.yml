@@ -31,3 +31,7 @@ jobs:
           htmlFile: ./index.html
           outputFile: ./index.pdf
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+      - run: |
+        git add ./index.pdf
+        git commit -m "generated"
+        git push
