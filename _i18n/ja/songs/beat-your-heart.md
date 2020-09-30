@@ -28,7 +28,7 @@
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
 　絆を示せ **（High!!）**  
-　Blaze（ブレず）に生きていくんだ  
+　<ruby>Blaze<rp>（</rp><rt>ブレず</rt><rp>）</rp></ruby>に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Over Boost!
 
@@ -61,7 +61,7 @@
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　Bangin’, knockin’ heart  
-　魂よ沸（たぎ）れ **（High!!）**  
+　魂よ<ruby>沸<rp>（</rp><rt>たぎ</rt><rp>）</rp></ruby>れ **（High!!）**  
 　迷わず突き抜けるんだ  
 　アクセル　踏み抜き　Going!  
 　No stoppin!
@@ -87,7 +87,7 @@
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
 　絆を示せ **（High!!）**  
-　Blaze（ブレず）に生きていくんだ  
+　<ruby>Blaze<rp>（</rp><rt>ブレず</rt><rp>）</rp></ruby>に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Over Boost!
 
