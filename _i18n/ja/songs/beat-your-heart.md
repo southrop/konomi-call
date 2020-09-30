@@ -7,7 +7,7 @@
 
 　Come on let’s go to that place  
 　I just can’t stop anymore  
-　飛びだせ　仄暗（ほのぐら）い空  
+　飛びだせ　<ruby>仄暗<rp>（</rp><rt>ほのぐら</rt><rp>）</rp></ruby>い空  
 　fly into the light
 
 　信じたい　この世界に生まれたことが  
@@ -24,7 +24,7 @@
 
 　**1, 2, 3, 4, 5 Wake! Up! Your! Heart! Beat!**  
 
-　Blaze（ブレず）に生きていくんだ  
+　Blaze<ruby><rp>（</rp><rt>ブレず</rt><rp>）</rp></ruby>に生きていくんだ  
 　ドキドキ感じて Burning!  
 　Brave and boiling heart  
 　絆を示せ **（High!!）**  
