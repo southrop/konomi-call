@@ -19,7 +19,7 @@ stress shakai fuki tobase
 raishuu mo massugu ganbaru tame no  
 omajinai no Holiday tanoshimimashou
 
-haa...  korowarenai seikaku ga ada to naru  
+haa... kotowarenai seikaku ga ada to naru  
 tsugi kara tsugi e yamazumi no et cetera
 
 kyou dake wa tanmatsu mo honki mode mo Off!  
