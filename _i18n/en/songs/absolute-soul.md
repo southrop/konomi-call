@@ -1,11 +1,11 @@
 ◆ Prelude <hi!…>
 
 fusagareta kako ni bokutachi wa ikitekita  
-touzakaru mirai ugokanai toki no naka  
+toozakaru mirai ugokanai toki no naka  
 
 tatakai no ima ni itsuno hika  
 motometeta sadame sae koeta  
-shiinjiau chikara
+shinjiau chikara
 
 tsuyokunaru dokomademo  
 ittsui no kimi to boku to de
@@ -21,13 +21,13 @@ dakara **{dakara}** tsuyosa ni kaeteyukeru
 kimi no tate kimi dake no tate ni boku wa narou  
 senaka awase kiseki wo **{deai wo}** shinjiteru  
 daremo fumikomenai **{tomerarenai}**  
-genkai de haruka miorosu no sa  
+genkaiten haruka miorosu no sa  
 Absolute Soul
 
 ◆ Interlude <hi!…>
 
-ayamachi no hate ni bokutachi nani wo eta  
-tsugunai aguneta nemurenai yoru no mokou  
+ayamachi no hate ni bokutachi wa nani wo eta  
+tsugunai aguneta nemurenai yoru no mukou  
 
 furueta senaka ni ima kimi no atatakasa  
 tashika na omoi wa shinjinuku tsubasa
@@ -62,7 +62,7 @@ kimi dake ni mieru hikari ni narou
 kimi no tate kimi dake no tate ni boku wa narou  
 senaka awase kiseki wo **{deai wo}** shinjiteru  
 daremo fumikomenai **{tomerarenai}**  
-genkai de haruka miorosu no sa  
+genkaiten haruka miorosu no sa  
 Absolute Soul
 
 **kimi no tame kimi dake no tame ni boku wa ikiru**  
