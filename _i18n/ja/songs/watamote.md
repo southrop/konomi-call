@@ -3,9 +3,9 @@
 ◆間奏＜hi!…＞
 
 　**今日も　同じ一日が始まる  
- 　誰よりも他人の目を気にして**  
+　誰よりも<ruby>他人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の目を気にして**  
 　「実際かわいい日もあるよ？  
- 　勘違いじゃないし」
+　勘違いじゃないし」
 
 　**「無視かよ…」**
 
@@ -29,7 +29,7 @@
 　モテろ **（モテろ）** モテろ **（モテろ）**  
 　全てが変わる未来で会おう  
 　私がモテないのはどう考えてもお前らが悪い！  
- 　**Yeah!**
+　**Yeah!**
 
 *This is a song of hope,for those who feel loneliness.  
 What can they do for the future,  
