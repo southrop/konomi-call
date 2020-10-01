@@ -38,7 +38,7 @@ kyoumi nai yaritai you ni yaru dake
 zanshin sa oimotomete youkyuu wo nageru no ni  
 *(dare hitori shiranainda)*  
 erabitotta kekka taika de kizukanai wakarazuya  
-*(nannin nozomu kotae)*  
+*(bannin nozomu kotae)*  
 naigashiro obieru no wa fu no loop jikan no muda  
 *(naki nagara funbatte)*  
 yurushikou hima arun nara  
@@ -73,7 +73,7 @@ saigo made **(sotto)**
 yuruganu negai **(tomoshibi)**  
 daite ikite yuku **(daite ikiyou)**  
 akogare **(kiezu)**  
-nokoru nara Kawareru  fukutsu no honoo ni  
+nokoru nara kawareru fukutsu no honoo ni  
 abarero sanzen to Deep red heart
 
 ◆ Postlude <hi!…>
