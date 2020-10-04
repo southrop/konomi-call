@@ -34,7 +34,7 @@ plugins:
 include: [".nojekyll", "CNAME"]
 exclude: ["README.md", "phantom_jekyll_theme.gemspec"]
 
-enable_i18n: false
+enable_i18n: true
 default_locale_in_subfolder: false
 languages: ["ja", "en"]
 exclude_from_localizations: ["assets", ".nojekyll", "CNAME"]
