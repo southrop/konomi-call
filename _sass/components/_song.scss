@@ -8,6 +8,10 @@
 		> h2.credits {
 			letter-spacing: normal;
 
+			@media print {
+				margin-bottom: 0.8em;
+			}
+
 			> br {
 				display: inline;
 			}
@@ -39,7 +43,6 @@
 		}
 
 		> div.lyrics {
-			column-count: 2;
 			@media print {
 				column-count: 2;
 			}
@@ -58,10 +61,18 @@
 
 			p:not(:first-of-type) {
 				padding-top: 0.75em;
+
+				@media print {
+					padding-top: 0.5em;
+				}
 			}
 
 			p:not(:last-of-type) {
 				padding-bottom: 1.25em;
+
+				@media print {
+					padding-bottom: 0.75em;
+				}
 			}
 		}
 

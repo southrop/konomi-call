@@ -30,12 +30,12 @@ jobs:
         with:
           inputPaths: 'index.html,days-of-dash/index.html,watamote/index.html,this-game/index.html,absolute-soul/index.html,deep-red-heart/index.html,beat-your-heart/index.html,redo/index.html,love-is-my-rail/index.html,join-us/index.html,sky-blue-oasis/index.html,theater-of-life/index.html,akenai-yoru-ni/index.html,realize/index.html,a-beautiful-mistake/index.html,maiyuki/index.html,live-it-up/index.html,about/index.html'
           outputPath: download.pdf
-          puppeteerOptions: '{"width": "300mm", "height": "400mm", "margin": {"top": "20mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+          puppeteerOptions: '{"scale": "0.66", "format": "Legal", "margin": {"top": "0.2in", "left": "0.2in", "right": "0.2in", "bottom": "0.2in"}}'
       - uses: southrop/html-to-pdf-action@main
         with:
           inputPaths: 'en/index.html,en/days-of-dash/index.html,en/watamote/index.html,en/this-game/index.html,en/absolute-soul/index.html,en/deep-red-heart/index.html,en/beat-your-heart/index.html,en/redo/index.html,en/love-is-my-rail/index.html,en/join-us/index.html,en/sky-blue-oasis/index.html,en/theater-of-life/index.html,en/akenai-yoru-ni/index.html,en/realize/index.html,en/a-beautiful-mistake/index.html,en/maiyuki/index.html,en/live-it-up/index.html,en/about/index.html'
           outputPath: en/download.pdf
-          puppeteerOptions: '{"width": "300mm", "height": "400mm", "margin": {"top": "20mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+          puppeteerOptions: '{"scale": "0.66", "format": "Legal", "margin": {"top": "0.2in", "left": "0.2in", "right": "0.2in", "bottom": "0.2in"}}'
       - run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
