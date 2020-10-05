@@ -1,6 +1,10 @@
 /* Song */
 
 	div.song {
+		@media print {
+			column-count: 2;
+		}
+
 		> h1.title {
 			margin: 0
 		}
