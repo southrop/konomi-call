@@ -3,6 +3,7 @@ global:
 
 menu:
   menu: Menu
+  download: Download
 
 titles:
   site: Konomi Suzuki Online Call Guide
