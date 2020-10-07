@@ -54,7 +54,7 @@
 
 ## カラフル色
 
-* Live it up!
+* [Live it up!](/live-it-up)
 
 ## タオル推奨曲
 
