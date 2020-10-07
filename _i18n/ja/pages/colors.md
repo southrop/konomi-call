@@ -52,7 +52,7 @@
 * White clover
 {: class="cb color7"}
 
-## カラフル色
+## カラフル(固定の色ではない)
 
 * [Live it up!](/live-it-up)
 
