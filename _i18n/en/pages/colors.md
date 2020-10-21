@@ -53,6 +53,11 @@ To match the theme of the concert, only **singles and their respective B-sides**
 * White clover
 {: class="cb color7"}
 
+
+## Colorful
+
+* [Live it up!](/live-it-up)
+
 ## Towel
 
 * [Sky Blue OASIS](/sky-blue-oasis)

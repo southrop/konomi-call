@@ -52,6 +52,10 @@
 * White clover
 {: class="cb color7"}
 
+## カラフル(固定の色ではない)
+
+* [Live it up!](/live-it-up)
+
 ## タオル推奨曲
 
 * [Sky Blue OASIS](/sky-blue-oasis)
