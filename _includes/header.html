@@ -14,7 +14,7 @@
 		</a>
 		<nav>
 			<ul>
-				{% if page.layout == 'home' %}<li><a href="{{ site.baseurl }}/download.pdf"><i class="fas fa-file-pdf" aria-hidden="true" title="{% t menu.download %}"></i></a></li>{% endif %}
+				{% if page.layout == 'home' %}<li><a href="{{ site.baseurl }}/download.pdf" onclick="gtag('event','download',{'event_category':'pdf','event_label':'{{ site.lang }}'})"><i class="fas fa-file-pdf" aria-hidden="true" title="{% t menu.download %}"></i></a></li>{% endif %}
 				{% if site.enable_i18n %}<li><a href="#lang"><i class="fas fa-language" aria-hidden="true" title="{% t global.language %}"></i></a></li>{% endif %}
 				<li><a href="#menu"><i class="fas fa-bars" aria-hidden="true" title="{% t menu.menu %}"></i></a></li>
 			</ul>
