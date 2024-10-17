@@ -1,46 +1,84 @@
 name: Deploy to Github Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches:
       - master
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy:
-    runs-on: ubuntu-16.04
+  # Build job
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/cache@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - uses: helaili/jekyll-action@2.0.4
+          ruby-version: "3.1" # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-  pdf:
-    needs: deploy
-    runs-on: ubuntu-16.04
+          JEKYLL_ENV: production
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v3
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: gh-pages
-      - uses: southrop/html-to-pdf-action@v2
-        with:
-          input: 'index.html,days-of-dash/index.html,watamote/index.html,this-game/index.html,absolute-soul/index.html,deep-red-heart/index.html,beat-your-heart/index.html,redo/index.html,love-is-my-rail/index.html,join-us/index.html,sky-blue-oasis/index.html,theater-of-life/index.html,akenai-yoru-ni/index.html,realize/index.html,a-beautiful-mistake/index.html,maiyuki/index.html,live-it-up/index.html,about/index.html'
-          outputPath: download.pdf
-          pageOptions: ',,,,,,{"scale": 0.53},,,{"scale": 0.58},,{"scale":0.58}'
-          globalOptions: '{"scale": 0.66, "format": "A4", "margin": {"top": "0.4in", "left": "0.2in", "right": "0.2in", "bottom": "0.2in"}}'
-      - uses: southrop/html-to-pdf-action@v2
-        with:
-          input: 'en/index.html,en/days-of-dash/index.html,en/watamote/index.html,en/this-game/index.html,en/absolute-soul/index.html,en/deep-red-heart/index.html,en/beat-your-heart/index.html,en/redo/index.html,en/love-is-my-rail/index.html,en/join-us/index.html,en/sky-blue-oasis/index.html,en/theater-of-life/index.html,en/akenai-yoru-ni/index.html,en/realize/index.html,en/a-beautiful-mistake/index.html,en/maiyuki/index.html,en/live-it-up/index.html,en/about/index.html'
-          outputPath: en/download.pdf
-          pageOptions: ',,,,,{"scale": 0.64},{"scale": 0.53},,,{"scale": 0.58},,{"scale":0.58}'
-          globalOptions: '{"scale": 0.66, "format": "A4", "margin": {"top": "0.4in", "left": "0.2in", "right": "0.2in", "bottom": "0.2in"}}'
-      - run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add download.pdf en/download.pdf
-          git commit -m 'Generated PDF'
-          git push
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # pdf:
+  #   needs: deploy
+  #   runs-on: ubuntu-16.04
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #       with:
+  #         ref: gh-pages
+  #     - uses: southrop/html-to-pdf-action@v2
+  #       with:
+  #         input: 'index.html,days-of-dash/index.html,watamote/index.html,this-game/index.html,absolute-soul/index.html,deep-red-heart/index.html,beat-your-heart/index.html,redo/index.html,love-is-my-rail/index.html,join-us/index.html,sky-blue-oasis/index.html,theater-of-life/index.html,akenai-yoru-ni/index.html,realize/index.html,a-beautiful-mistake/index.html,maiyuki/index.html,live-it-up/index.html,about/index.html'
+  #         outputPath: download.pdf
+  #         pageOptions: ',,,,,,{"scale": 0.53},,,{"scale": 0.58},,{"scale":0.58}'
+  #         globalOptions: '{"scale": 0.66, "format": "A4", "margin": {"top": "0.4in", "left": "0.2in", "right": "0.2in", "bottom": "0.2in"}}'
+  #     - uses: southrop/html-to-pdf-action@v2
+  #       with:
+  #         input: 'en/index.html,en/days-of-dash/index.html,en/watamote/index.html,en/this-game/index.html,en/absolute-soul/index.html,en/deep-red-heart/index.html,en/beat-your-heart/index.html,en/redo/index.html,en/love-is-my-rail/index.html,en/join-us/index.html,en/sky-blue-oasis/index.html,en/theater-of-life/index.html,en/akenai-yoru-ni/index.html,en/realize/index.html,en/a-beautiful-mistake/index.html,en/maiyuki/index.html,en/live-it-up/index.html,en/about/index.html'
+  #         outputPath: en/download.pdf
+  #         pageOptions: ',,,,,{"scale": 0.64},{"scale": 0.53},,,{"scale": 0.58},,{"scale":0.58}'
+  #         globalOptions: '{"scale": 0.66, "format": "A4", "margin": {"top": "0.4in", "left": "0.2in", "right": "0.2in", "bottom": "0.2in"}}'
+  #     - run: |
+  #         git config user.name "${GITHUB_ACTOR}"
+  #         git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+  #         git add download.pdf en/download.pdf
+  #         git commit -m 'Generated PDF'
+  #         git push
